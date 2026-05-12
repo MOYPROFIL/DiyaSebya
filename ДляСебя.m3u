@@ -74,12 +74,15 @@ https://raw.githubusercontent.com/SLUCHAYNIY/moykanal/refs/heads/main/SirvanTv.m
 #EXTINF:-1 tvg-logo="http://epg.one/img2/9131.png", Show plus tv
 #EXTGRP:Azerbaycan
 https://rtmp.showplus.tv/hls/myshow.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5N4mghBq/In-Shot-20260510-202245174.png", Diginet Cinema tv
+#EXTGRP:Azerbaycan
+https://a8.radyotelekom.com.tr:3276/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydy7DCw5/1762835780517.png", HTV sinema
 #EXTGRP:Azerbaycan
 http://maxgoldx.xyz:2095/ademr0000/dmm0301cc00bb55/20588
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QW0xBp1.png", kanal 65 cinema
 #EXTGRP:Azerbaycan
-https://a8.radyotelekom.com.tr:3063/hybrid/play.m3u8
+http://maxgoldx.xyz:2095/ademr0000/dmm0301cc00bb55/150457
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZND3n8r.png", kanal 65 komedi
 #EXTGRP:Azerbaycan
 https://live20.bozztv.com/akamaissh101/ssh101/kanal65komedi/playlist.m3u8
@@ -103,7 +106,13 @@ https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_outpu
 http://b7453.ant07.art/live/aktas.xxx/14102022xyx/170295.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qpfuy53.png",Cine+Yesilcam
 #EXTGRP:Azerbaycan
-http://cineplusyesilcam.streams-supersatforum.workers.dev/index.m3u8
+http://cineplus-yesilcam.supersatadmin.workers.dev/cineplusyesilcam.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VbQqzzE.png",ON Sinema
+#EXTGRP:Azerbaycan
+http://maxtvaksiyonfhd.streams-supersatforum.workers.dev/index.m3u8
+#EXTINF:-1 tvg-logo"https://i.imgur.com/VbQqzzE.png",TELE ON
+#EXTGRP:Azerbaycan
+http://teleontvstreams.supersatadmin.workers.dev/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhRtHJf.png", YANSIMA SİNEMA HDᵀᴿ
 #EXTGRP:Azerbaycan
 https://live20.bozztv.com/akamaissh101/ssh101/ysmtvmedya/playlist.m3u8
