@@ -122,6 +122,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/teber9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KpSSF4g.png", YANSIMA music
 #EXTGRP:Azerbaycan
 https://live20.bozztv.com/akamaissh101/ssh101/ymmusictv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/BnYCpP6k/In-Shot-20250911-180524171.png",YANSIMA DANS
+#EXTGRP:Azerbaycan
+https://azerbaycan.biz-az.workers.dev/ymdanstv.m3u8
 #EXTGRP:Azerbaycan
 https://host.onlineradyotv.net:8081/tetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yWcGNHj.png", Pati tvᵀᴿ
@@ -170,6 +173,27 @@ https://v2.catcast.tv/content/48695/seg-25460342-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/saban-tv.png",Şaban tv
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50543/seg-25649090-v1-a1/index.m3u8
+#EXTINF:0 tvg-id="3"tvg-logo="https://i.postimg.cc/HsY46nFr/In-Shot-20251214-120450045.png",ŞABAN TV
+#EXTGRP:Azerbaycan
+https://tv191.radyotelekom.com.tr:3996/stream/play.m3u8
+#EXTINF:0 tvg-id="3"tvg-logo="https://i.postimg.cc/zvWWY15P/In-Shot-20260501-201834312.png",KEMAL SUNAL
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Kemal_Sunal_Tv.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/rwM3jDB6/akkaontvust.png",AKKON TV
+#EXTGRP:Azerbaycan
+https://streams.uzunmuhalefet.com/stream/74555614-af2a-40ca-aaba-eaa665343c5c.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/59BJmjzG/In-Shot-20250920-222453922.png",FİLM SCREEN
+#EXTGRP:Azerbaycan
+https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/13GwQ7tv/In-Shot-20251110-163703864.png",Zalım İstanbul-dizi
+#EXTGRP:Azerbaycan
+https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/zalim_istanbul_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/LXw3XYMn/In-Shot-20251110-163955606.png",Tatlı intikam-dizi
+#EXTGRP:Azerbaycan
+https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/tatli_intikam_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/PJ6hYjSG/In-Shot-20251110-164329421.png",Siyah beyaz aşk-dizi
+#EXTGRP:Azerbaycan
+https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/Siyah_beyaz_ask_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/10042025/logos/14862-67f7da5a4db6c.png",Komedi Turk
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/48591/seg-25410428-v1-a1/index.m3u8
@@ -2199,7 +2223,60 @@ https://streams.uzunmuhalefet.com/stream/408049d0-b521-48ea-a709-c2ca2593d3ff.m3
 #EXTINF:1,RIZE TURK TV
 #EXTGRP:TURK
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
-
+#EXTINF:0 tvg-logo="https://i.postimg.cc/SKwctyyX/In-Shot-20260225-191247198.png",TEBER HILAL 1
+#EXTGRP:TURK
+https://azerbaycan.biz-az.workers.dev/hilal1.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/SKwctyyX/In-Shot-20260225-191247198.png",TEBER STAR 1
+#EXTGRP:TURK
+http://boztv.smartiptvworld.workers.dev/star1.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/SKwctyyX/In-Shot-20260225-191247198.png",TEBER CEVIK
+#EXTGRP:TURK
+https://azerbaycan.biz-az.workers.dev/cevik_tv.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/SKwctyyX/In-Shot-20260225-191247198.png",TEBER AKTIF
+#EXTGRP:TURK
+https://azerbaycan.biz-az.workers.dev/aktif_tv.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/SKwctyyX/In-Shot-20260225-191247198.png",HBB TV
+#EXTGRP:TURK
+https://azerbaycan.biz-az.workers.dev/hbb_tv.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/SKwctyyX/In-Shot-20260225-191247198.png",TV 6
+#EXTGRP:TURK
+https://azerbaycan.biz-az.workers.dev/yer_6.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/SKwctyyX/In-Shot-20260225-191247198.png",MEGA
+#EXTGRP:TURK
+https://azerbaycan.biz-az.workers.dev/mega_tv.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/SKwctyyX/In-Shot-20260225-191247198.png",TEBER ON
+#EXTGRP:TURK
+https://azerbaycan.biz-az.workers.dev/tele_on_plus.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/SKwctyyX/In-Shot-20260225-191247198.png",TEBER STAR
+#EXTGRP:TURK
+http://boztv.smartiptvworld.workers.dev/teber_star.m3u8
+#EXTINF:0 tvg-id="sinematv" tvg-name="Sinema Tv" tvg-logo="https://img.dsmartgo.com.tr/content/T/QU/22894/Thumbnail.png",Sinema Tv 
+#EXTGRP:TURK
+https://proud-river-e20b.pantonum1.workers.dev/sinema.m3u8
+#EXTINF:0 tvg-id="sinematv2" tvg-name="Sinema Tv 2" tvg-logo="https://img.dsmartgo.com.tr/content/Y/3N/22904/Thumbnail.png",Sinema Tv 2 
+#EXTGRP:TURK
+https://proud-river-e20b.pantonum1.workers.dev/sinema2.m3u8
+#EXTINF:0 tvg-id="sinemaaile" tvg-name="Sinema Aile" tvg-logo="https://img.dsmartgo.com.tr/content/-/EU/22897/Thumbnail.png",Sinema Aile 
+#EXTGRP:TURK
+https://proud-river-e20b.pantonum1.workers.dev/sinemaaile.m3u8
+#EXTINF:0 tvg-id="sinemaaksiyon" tvg-name="Sinema Aksiyon" tvg-logo="https://img.dsmartgo.com.tr/content/t/tD/22896/Thumbnail.png",Sinema Aksiyon
+#EXTGRP:TURK
+https://proud-river-e20b.pantonum1.workers.dev/sinemaaksiyon.m3u8
+#EXTINF:0 tvg-id="sinemaaksiyon2" tvg-name="Sinema Aksiyon 2" tvg-logo="https://img.dsmartgo.com.tr/content/M/RG/22895/Thumbnail.png",Sinema Aksiyon 2 
+#EXTGRP:TURK
+https://proud-river-e20b.pantonum1.workers.dev/sinemaaksiyon2.m3u8
+#EXTINF:0 tvg-id="sinemakomedi" tvg-name="Sinema Komedi" tvg-logo="https://img.dsmartgo.com.tr/content/w/9a/22899/Thumbnail.png",Sinema Komedi 
+#EXTGRP:TURK
+https://proud-river-e20b.pantonum1.workers.dev/sinemakomedi.m3u8
+#EXTINF:0 tvg-id="sinemakomedi2" tvg-name="Sinema Komedi 2" tvg-logo="https://img.dsmartgo.com.tr/content/o/oG/22900/Thumbnail.png",Sinema Komedi 2 
+#EXTGRP:TURK
+https://kiloyapar.denek1544.workers.dev/channel/U2luZW1hIFRWIEtvbWVkaSAy.m3u8
+#EXTINF:0 tvg-id="sinematv1001" tvg-name="Sinema Tv 1001" tvg-logo="https://img.dsmartgo.com.tr/content/g/6y/22901/Thumbnail.png",Sinema Tv 1001 
+#EXTGRP:TURK
+https://proud-river-e20b.pantonum1.workers.dev/sinema1001.m3u8
+#EXTINF:0 tvg-id="sinematv1002" tvg-name="Sinema Tv 1002" tvg-logo="https://img.dsmartgo.com.tr/content/C/XZ/22902/Thumbnail.png",Sinema Tv 1002 
+#EXTGRP:TURK
+https://proud-river-e20b.pantonum1.workers.dev/sinema1002.m3u8
 #EXTINF:-1 tvg-logo="https://aksiyon.sinematv.com.tr/content/logo/SINEMATV-AKSIYON.png" group-title="TURK", SINEMA AKSIONᵀᴿ
 http://65.108.239.207/sinemaaksiyon/index.m3u8
 #EXTINF:-1 group-title="TURK", TABII TV
@@ -2348,6 +2425,502 @@ https://streams.uzunmuhalefet.com/stream/9d940976-31c8-4570-92e6-a684e49bea46.m3
 #EXTINF:-1 group-title="Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/fa92d85e-31bb-4329-8c1f-5ccbe7b3bae8.png" tvg-url="https://www.turkuvapp.com/" tvg-id="CizgiFilmTV.tr",Çizgi Film TV
 https://streams.uzunmuhalefet.com/stream/f18c5afc-97bb-4790-b124-dd17c70b6217.m3u8
 
+
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Belgesel 1
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96957
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Belgesel 2
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96958
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Belgesel 3
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96959
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Belgesel 4
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96960
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Belgesel 5
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96961
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Belgesel 6
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96962
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Belgesel 7
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96963
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Belgesel 8
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96964
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Belgesel 9
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96965
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Belgesel 10
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96966
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Belgesel 11
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/103842
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Belgesel 12
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/103843
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Belgesel 13
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/103844
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Belgesel 14
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/103845
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Belgesel 15
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/103846
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Belgesel 16
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/103847
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Efsane 1
+http://boxserver.live:8080/live/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96569.ts
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Efsane 2
+http://boxserver.live:8080/live/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96568.ts
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Efsane 3
+http://boxserver.live:8080/live/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96570.ts
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Efsane 4
+http://boxserver.live:8080/live/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96571.ts
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Yerli Drama 1
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/102726
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Yerli Drama 2
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/102727
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Yerli Drama 3
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/102728
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Yerli Aksiyon 1
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/102729
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Yerli Aksiyon 2
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/102730
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Yerli Aksiyon 3
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/102731
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Yerli Komedi 1
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/102732
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Yerli Komedi 2
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/102733
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Yerli Komedi 3
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/102734
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Yerli Komedi 4
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/102735
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Yerli Komedi 5
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/102736
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Yerli Komedi 6
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/102737
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Yerli Korku
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/102738
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Yerli Romantik
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/102739
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Kemal Sunal 1
+http://boxserver.live:8080/live/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96602.ts
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Kemal Sunal 2
+http://boxserver.live:8080/live/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96603.ts
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Kemal Sunal 3
+http://boxserver.live:8080/live/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96604.ts
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Kemal Sunal 4
+http://boxserver.live:8080/live/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96605.ts
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Jackie Chan
+http://boxserver.live:8080/live/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96372.ts
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",James Bond
+http://boxserver.live:8080/live/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96373.ts
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Tom Cruise
+http://boxserver.live:8080/live/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96374.ts
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Hobbit
+http://boxserver.live:8080/live/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96375.ts
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Orumcek adam
+http://boxserver.live:8080/live/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96384.ts
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Recep Ivedik
+http://boxserver.live:8080/live/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96385.ts
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Zeki ve Metin
+http://boxserver.live:8080/live/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96736.ts
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Kadir Inanir
+http://boxserver.live:8080/live/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96737.ts
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Çocuk 1
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96927
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Çocuk 2
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96928
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Çocuk 3
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96929
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Çocuk 4
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96930
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Çocuk 5
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96931
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Çocuk 6
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96932
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Çocuk 7
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96933
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Çocuk 8
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96934
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Çocuk 9
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96935
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Çocuk 10
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96936
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Yeşilçam 1
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/102934
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Yeşilçam 2
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/102935
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Yeşilçam 3
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/102936
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Yeşilçam 4
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/102937
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Yeşilçam 5
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/102938
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Yeşilçam 6
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/102939
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Yeşilçam 7
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/102940
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Müzik pop 1
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/102245
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Müzik pop 2
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/102246
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Müzik pop 3
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/102247
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Müzik pop 4
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/102248
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Müzik pop 5
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/102249
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Müzik pop 6
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/102250
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Müzik pop 7
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/102251
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Müzik pop 8
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/102252
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Müzik pop 9
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/102253
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="SPECİALB🔴X",Müzik pop 10
+http://boxserver.live:8080/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/102254
+
+#EXTINF:0 tvg-id="3050" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/beintrboxoffice01hd.png" group-title="SINEMA", (TR) Bein Box Office 1 4K+
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=3050&extension=ts
+#EXTINF:0 tvg-id="3049" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/beintrboxoffice02hd.png" group-title="SINEMA", (TR) Bein Box Office 2 4K+
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=3049&extension=ts
+#EXTINF:0 tvg-id="3048" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/beintrboxoffice03hd.png" group-title="SINEMA", (TR) Bein Box Office 3 4K+
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=3048&extension=ts
+#EXTINF:0 tvg-id="3038" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/beintrmoviesturkhd.png" group-title="SINEMA", (TR) Bein Movies Turk 4K+
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=3038&extension=ts
+#EXTINF:0 tvg-id="3039" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/beintrmoviesstarshd.png" group-title="SINEMA", (TR) Bein Movies Stars 4K+
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=3039&extension=ts
+#EXTINF:0 tvg-id="3046" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/beintrmoviesaction02hd.png" group-title="SINEMA", (TR) Bein Movies Action 2 4K+
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=3046&extension=ts
+#EXTINF:0 tvg-id="89829" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/beintrmoviespremier01hd.png" group-title="SINEMA", (TR) Bein Movies Premiere 4K+
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=89829&extension=ts
+#EXTINF:0 tvg-id="3041" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/beintrmoviespremier02hd.png" group-title="SINEMA", (TR) Bein Movies Premiere 2 4K+
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=3041&extension=ts
+#EXTINF:0 tvg-id="89832" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/beintrseriesscifihd.png" group-title="SINEMA", (TR) Bein Series 1 4K+
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=89832&extension=ts
+#EXTINF:0 tvg-id="89831" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/beintrseries.png" group-title="SINEMA", (TR) Bein Series 2 4K+
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=89831&extension=ts
+#EXTINF:0 tvg-id="89830" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/beintrmoviescomedyhd.png" group-title="SINEMA", (TR) Bein Series 3 4K+
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=89830&extension=ts
+#EXTINF:0 tvg-id="3035" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/beintrseriesscifihd.png" group-title="SINEMA", (TR) Bein Series 4 4K+
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=3035&extension=ts
+#EXTINF:0 tvg-id="2906" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/moviesmartpremium.png" group-title="SINEMA", (TR) Moviesmart Turk 4K+
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=2906&extension=ts
+#EXTINF:0 tvg-id="2918" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/moviesmartclassic.png" group-title="SINEMA", (TR) Moviesmart Classic 4K+
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=2918&extension=ts
+#EXTINF:0 tvg-id="89833" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dizismartpremiumhd.png" group-title="SINEMA", (TR) Premium Dizismart 4K+
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=89833&extension=ts
+#EXTINF:0 tvg-id="170407" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) Sinema TV Comedy 4K+
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=170407&extension=ts
+#EXTINF:0 tvg-id="170408" tvg-logo="http://film.darktv.nl/logo/Logolar/sinematvailetr.png" group-title="SINEMA", (TR) Sinema Yerli 1 4K+
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=170408&extension=ts
+#EXTINF:0 tvg-id="170406" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) Sinema Yerli 2 4K+
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=170406&extension=ts
+#EXTINF:0 tvg-id="89838" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sinematvailetr.png" group-title="SINEMA", (TR) Sinema Aile 1 4K+
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=89838&extension=ts
+#EXTINF:0 tvg-id="170404" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sinematvailetr.png" group-title="SINEMA", (TR) Sinema Aile 2 4K+
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=170404&extension=ts
+#EXTINF:0 tvg-id="89835" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sinetivitr.png" group-title="SINEMA", (TR) Sinema TV 1 4K+
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=89835&extension=ts
+#EXTINF:0 tvg-id="89836" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sinetivitr2.png" group-title="SINEMA", (TR) Sinema TV 2 4K+
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=89836&extension=ts
+#EXTINF:0 tvg-id="89839" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sinematvaksiyontr.png" group-title="SINEMA", (TR) Sinema Aksion 1 4K+
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=89839&extension=ts
+#EXTINF:0 tvg-id="170405" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sinematvaksiyontr.png" group-title="SINEMA", (TR) Sinema Aksion 2 4K+
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=170405&extension=ts
+#EXTINF:0 tvg-id="89837" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sinematv1001tr.png" group-title="SINEMA", (TR) Sinema TV 1001 4K+
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=89837&extension=ts
+#EXTINF:0 tvg-id="89834" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sinematv1001tr.png" group-title="SINEMA", (TR) Sinema TV 1002 4K+
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=89834&extension=ts
+#EXTINF:0 tvg-id="170409" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) Epic Drama
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=170409&extension=ts
+#EXTINF:0 tvg-id="2975" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/fxtv.png" group-title="SINEMA", (TR) Fx HD
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=2975&extension=ts
+#EXTINF:0 tvg-id="164248" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Yerli Sinema TV 1
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=164248&extension=ts
+#EXTINF:0 tvg-id="174557" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Yerli Sinema TV 2
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=174557&extension=ts
+#EXTINF:0 tvg-id="184290" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Yerli Sinema TV 3
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=184290&extension=ts
+#EXTINF:0 tvg-id="184394" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Yerli Sinema TV 4
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=184394&extension=ts
+#EXTINF:0 tvg-id="184395" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Yerli Sinema TV 5
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=184395&extension=ts
+#EXTINF:0 tvg-id="193346" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Yerli Sinema TV 6
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=193346&extension=ts
+#EXTINF:0 tvg-id="184263" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Yerli Komedi 1
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=184263&extension=ts
+#EXTINF:0 tvg-id="184266" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Yerli komedi 2
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=184266&extension=ts
+#EXTINF:0 tvg-id="184267" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Yerli Komedi 3
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=184267&extension=ts
+#EXTINF:0 tvg-id="184268" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Yerli Komedi 4
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=184268&extension=ts
+#EXTINF:0 tvg-id="191843" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Yerli Komedi 5
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=191843&extension=ts
+#EXTINF:0 tvg-id="300712" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Favoritebox Yerli 1
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=300712&extension=ts
+#EXTINF:0 tvg-id="300713" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Favoritebox Yerli 2
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=300713&extension=ts
+#EXTINF:0 tvg-id="300714" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Favoritebox Yerli 3
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=300714&extension=ts
+#EXTINF:0 tvg-id="300715" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Favoritebox Yerli 4
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=300715&extension=ts
+#EXTINF:0 tvg-id="300716" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Favoritebox Yerli 5
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=300716&extension=ts
+#EXTINF:0 tvg-id="300717" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Favoritebox Yerli 6
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=300717&extension=ts
+#EXTINF:0 tvg-id="300718" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Favoritebox Yerli 7
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=300718&extension=ts
+#EXTINF:0 tvg-id="300719" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Favoritebox Yerli 8
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=300719&extension=ts
+#EXTINF:0 tvg-id="300720" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Favoritebox Yerli 9
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=300720&extension=ts
+#EXTINF:0 tvg-id="300721" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Favoritebox Yerli 10
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=300721&extension=ts
+#EXTINF:0 tvg-id="300722" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Favoritebox Yerli 11
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=300722&extension=ts
+#EXTINF:0 tvg-id="300723" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Favoritebox Yerli 12
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=300723&extension=ts
+#EXTINF:0 tvg-id="300724" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Favoritebox Yerli 13
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=300724&extension=ts
+#EXTINF:0 tvg-id="300725" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Favoritebox Yerli 14
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=300725&extension=ts
+#EXTINF:0 tvg-id="300726" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Favoritebox Yerli 15
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=300726&extension=ts
+#EXTINF:0 tvg-id="61192" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴  Recep Ivedik 1
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=61192&extension=ts
+#EXTINF:0 tvg-id="184448" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴  Recep Ivedik 2
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=184448&extension=ts
+#EXTINF:0 tvg-id="183998" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Mahsun J
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=183998&extension=ts
+#EXTINF:0 tvg-id="184287" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Cem Yilmaz
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=184287&extension=ts
+#EXTINF:0 tvg-id="61110" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Şafak Sezer 1
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=61110&extension=ts
+#EXTINF:0 tvg-id="71211" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Şafak Sezer 2
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=71211&extension=ts
+#EXTINF:0 tvg-id="183974" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Tabii Original 1
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=183974&extension=ts
+#EXTINF:0 tvg-id="183975" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Tabii Original 2
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=183975&extension=ts
+#EXTINF:0 tvg-id="183978" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Tabii Original 3
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=183978&extension=ts
+#EXTINF:0 tvg-id="182054" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Tabii Original 4
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=182054&extension=ts
+#EXTINF:0 tvg-id="187505" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Tabii Original 5
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=187505&extension=ts
+#EXTINF:0 tvg-id="183979" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Gain Original 1
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=183979&extension=ts
+#EXTINF:0 tvg-id="183980" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Gain Original 2
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=183980&extension=ts
+#EXTINF:0 tvg-id="183999" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Gain Original 4
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=183999&extension=ts
+#EXTINF:0 tvg-id="152032" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Sinema Belgesel
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=152032&extension=ts
+#EXTINF:0 tvg-id="180002" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Nuri Bilge Ceylan
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=180002&extension=ts
+#EXTINF:0 tvg-id="176481" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Taff Pictures Sinema
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=176481&extension=ts
+#EXTINF:0 tvg-id="186451" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴  Yeşilçam 4K ᵘˡᵗʳᵃ 1
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=186451&extension=ts
+#EXTINF:0 tvg-id="187282" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Yeşilçam 4K ᵘˡᵗʳᵃ 2
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=187282&extension=ts
+#EXTINF:0 tvg-id="185937" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Kemal Sunal 4K ᵘˡᵗʳᵃ 1
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=185937&extension=ts
+#EXTINF:0 tvg-id="186762" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Kemal Sunal 4K ᵘˡᵗʳᵃ 2
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=186762&extension=ts
+#EXTINF:0 tvg-id="186763" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Kemal Sunal 4K ᵘˡᵗʳᵃ 3
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=186763&extension=ts
+#EXTINF:0 tvg-id="21070" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Kemal Sunal 1
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=21070&extension=ts
+#EXTINF:0 tvg-id="2984" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴Kemal Sunal 2
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=2984&extension=ts
+#EXTINF:0 tvg-id="47680" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Kemal Sunal 3
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=47680&extension=ts
+#EXTINF:0 tvg-id="71214" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Kemal Sunal 4
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=71214&extension=ts
+#EXTINF:0 tvg-id="101020" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Kemal Sunal 5
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=101020&extension=ts
+#EXTINF:0 tvg-id="184397" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Kemal Sunal 6
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=184397&extension=ts
+#EXTINF:0 tvg-id="184412" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Kemal Sunal 7
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=184412&extension=ts
+#EXTINF:0 tvg-id="184426" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Kemal Sunal 8
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=184426&extension=ts
+#EXTINF:0 tvg-id="184425" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Kemal Sunal 9
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=184425&extension=ts
+#EXTINF:0 tvg-id="184424" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Kemal Sunal 10
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=184424&extension=ts
+#EXTINF:0 tvg-id="184416" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Hababam Sınıfı
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=184416&extension=ts
+#EXTINF:0 tvg-id="184396" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Yeşilçam HD
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=184396&extension=ts
+#EXTINF:0 tvg-id="47664" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Baddal Gazi
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=47664&extension=ts
+#EXTINF:0 tvg-id="136972" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Kara Murat
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=136972&extension=ts
+#EXTINF:0 tvg-id="47683" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Cüneyt Arkin 1
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=47683&extension=ts
+#EXTINF:0 tvg-id="97726" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Cüneyt Arkın 2
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=97726&extension=ts
+#EXTINF:0 tvg-id="151106" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Cüneyt Arkın 3
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=151106&extension=ts
+#EXTINF:0 tvg-id="2864" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Kadir İnanır 1
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=2864&extension=ts
+#EXTINF:0 tvg-id="71207" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Kadir İnanır 2
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=71207&extension=ts
+#EXTINF:0 tvg-id="101048" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Kadir İnanır 3
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=101048&extension=ts
+#EXTINF:0 tvg-id="101018" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Cilali Ibo
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=101018&extension=ts
+#EXTINF:0 tvg-id="101019" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Ayhan Işık
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=101019&extension=ts
+#EXTINF:0 tvg-id="151779" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Şener Şen 1
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=151779&extension=ts
+#EXTINF:0 tvg-id="47706" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Tarik Akan
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=47706&extension=ts
+#EXTINF:0 tvg-id="97694" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Adile Naşit 1
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=97694&extension=ts
+#EXTINF:0 tvg-id="2869" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Ilyas Salman
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=2869&extension=ts
+#EXTINF:0 tvg-id="47665" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Hülya Avşar 1
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=47665&extension=ts
+#EXTINF:0 tvg-id="47671" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Kartal Tibed 1
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=47671&extension=ts
+#EXTINF:0 tvg-id="47662" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Kartal Tibed 2
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=47662&extension=ts
+#EXTINF:0 tvg-id="101029" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Türkan Şoray 1
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=101029&extension=ts
+#EXTINF:0 tvg-id="101032" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Türkan Şoray 2
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=101032&extension=ts
+#EXTINF:0 tvg-id="101011" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Türkan Şoray 3
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=101011&extension=ts
+#EXTINF:0 tvg-id="71213" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Yilmaz Guney 1
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=71213&extension=ts
+#EXTINF:0 tvg-id="71209" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Yilmaz Güney 2
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=71209&extension=ts
+#EXTINF:0 tvg-id="61256" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Yilmaz Güney 3
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=61256&extension=ts
+#EXTINF:0 tvg-id="101013" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Serdar Gökhan
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=101013&extension=ts
+#EXTINF:0 tvg-id="151645" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Ibrahim Tatlıses 1
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=151645&extension=ts
+#EXTINF:0 tvg-id="2912" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Ibrahim Tatlıses 2
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=2912&extension=ts
+#EXTINF:0 tvg-id="193938" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Yabanci 4K ᵘˡᵗʳᵃ 1
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=193938&extension=ts
+#EXTINF:0 tvg-id="193939" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Yabanci 4K ᵘˡᵗʳᵃ 2
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=193939&extension=ts
+#EXTINF:0 tvg-id="193942" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Yabanci 4K ᵘˡᵗʳᵃ 3
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=193942&extension=ts
+#EXTINF:0 tvg-id="195322" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Yabanci 4K ᵘˡᵗʳᵃ 4
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=195322&extension=ts
+#EXTINF:0 tvg-id="208828" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Yabanci 4K ᵘˡᵗʳᵃ 5
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=208828&extension=ts
+#EXTINF:0 tvg-id="197302" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ X Men 4K ᵘˡᵗʳᵃ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=197302&extension=ts
+#EXTINF:0 tvg-id="208829" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Kasik 4K ᵘˡᵗʳᵃ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=208829&extension=ts
+#EXTINF:0 tvg-id="193941" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Alt yazili 4K ᵘˡᵗʳᵃ
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=193941&extension=ts
+#EXTINF:0 tvg-id="300727" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Favoritebox Yabanci 1
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=300727&extension=ts
+#EXTINF:0 tvg-id="300728" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Favoritebox Yabanci 2
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=300728&extension=ts
+#EXTINF:0 tvg-id="300729" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Favoritebox Yabanci 3
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=300729&extension=ts
+#EXTINF:0 tvg-id="300730" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Favoritebox Yabanci 4
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=300730&extension=ts
+#EXTINF:0 tvg-id="300731" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Favoritebox Yabanci 5
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=300731&extension=ts
+#EXTINF:0 tvg-id="300732" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Favoritebox Yabanci 6
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=300732&extension=ts
+#EXTINF:0 tvg-id="300733" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Favoritebox Yabanci 7
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=300733&extension=ts
+#EXTINF:0 tvg-id="300734" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Favoritebox Yabanci 8
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=300734&extension=ts
+#EXTINF:0 tvg-id="300735" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Favoritebox Yabanci 9
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=300735&extension=ts
+#EXTINF:0 tvg-id="300737" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Favoritebox Yabanci 10
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=300737&extension=ts
+#EXTINF:0 tvg-id="300736" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Favoritebox Yabanci 11
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=300736&extension=ts
+#EXTINF:0 tvg-id="182701" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR)  ⁷-²⁴ Yabanci Sinema 1
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=182701&extension=ts
+#EXTINF:0 tvg-id="182708" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR)  ⁷-²⁴ Yabanci Sinema 2
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=182708&extension=ts
+#EXTINF:0 tvg-id="182709" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR)  ⁷-²⁴ Yabanci Sinema 3
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=182709&extension=ts
+#EXTINF:0 tvg-id="182712" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR)  ⁷-²⁴ Yabanci Sinema 4
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=182712&extension=ts
+#EXTINF:0 tvg-id="182713" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR)  ⁷-²⁴ Yabanci Sinema 5
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=182713&extension=ts
+#EXTINF:0 tvg-id="182714" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR)  ⁷-²⁴ Yabanci Sinema 6
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=182714&extension=ts
+#EXTINF:0 tvg-id="182716" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR)  ⁷-²⁴ Yabanci Sinema 7
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=182716&extension=ts
+#EXTINF:0 tvg-id="182717" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR)  ⁷-²⁴ Yabanci Sinema 8
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=182717&extension=ts
+#EXTINF:0 tvg-id="182718" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR)  ⁷-²⁴ Yabanci Sinema 9
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=182718&extension=ts
+#EXTINF:0 tvg-id="182719" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR)  ⁷-²⁴ Yabanci Sinema 10
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=182719&extension=ts
+#EXTINF:0 tvg-id="186637" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Aksiyon 1
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=186637&extension=ts
+#EXTINF:0 tvg-id="182737" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Aksiyon 2
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=182737&extension=ts
+#EXTINF:0 tvg-id="182738" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Aksiyon 3
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=182738&extension=ts
+#EXTINF:0 tvg-id="182739" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Aksiyon 4
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=182739&extension=ts
+#EXTINF:0 tvg-id="182740" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Aksiyon 5
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=182740&extension=ts
+#EXTINF:0 tvg-id="182736" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Aksiyon 6
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=182736&extension=ts
+#EXTINF:0 tvg-id="182741" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR)  ⁷-²⁴ Alt Yazili 1
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=182741&extension=ts
+#EXTINF:0 tvg-id="208376" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR)  ⁷-²⁴ Alt Yazili 2
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=208376&extension=ts
+#EXTINF:0 tvg-id="208378" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR)  ⁷-²⁴ Alt Yazili 3
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=208378&extension=ts
+#EXTINF:0 tvg-id="208379" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR)  ⁷-²⁴ Alt Yazili 4
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=208379&extension=ts
+#EXTINF:0 tvg-id="208380" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR)  ⁷-²⁴ Alt Yazili 5
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=208380&extension=ts
+#EXTINF:0 tvg-id="208382" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR)  ⁷-²⁴ Alt Yazili 6
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=208382&extension=ts
+#EXTINF:0 tvg-id="182703" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Tod Original 1
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=182703&extension=ts
+#EXTINF:0 tvg-id="183973" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Tod Original 2
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=183973&extension=ts
+#EXTINF:0 tvg-id="184131" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Tod Original 3
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=184131&extension=ts
+#EXTINF:0 tvg-id="182705" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Amazon 1
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=182705&extension=ts
+#EXTINF:0 tvg-id="182704" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Netflix 1
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=182704&extension=ts
+#EXTINF:0 tvg-id="189355" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Netflix 2
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=189355&extension=ts
+#EXTINF:0 tvg-id="182706" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Disney+ 1
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=182706&extension=ts
+#EXTINF:0 tvg-id="182707" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Disney+ 2
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=182707&extension=ts
+#EXTINF:0 tvg-id="182742" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Klasik 1
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=182742&extension=ts
+#EXTINF:0 tvg-id="182702" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Turkcell Tv+
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=182702&extension=ts
+#EXTINF:0 tvg-id="91054" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ AL Pacino
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=91054&extension=ts
+#EXTINF:0 tvg-id="186729" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴  Aamir Khan
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=186729&extension=ts
+#EXTINF:0 tvg-id="186380" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Rambo
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=186380&extension=ts
+#EXTINF:0 tvg-id="80984" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Brad Pitt
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=80984&extension=ts
+#EXTINF:0 tvg-id="71205" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Jackie Chan
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=71205&extension=ts
+#EXTINF:0 tvg-id="93454" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Nicolas Cage
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=93454&extension=ts
+#EXTINF:0 tvg-id="91071" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Van Damme
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=91071&extension=ts
+#EXTINF:0 tvg-id="47655" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Jason Statham
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=47655&extension=ts
+#EXTINF:0 tvg-id="94648" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="SINEMA", (TR) ⁷-²⁴ Mark Wahlberg
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=94648&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Bickin (TR)" group-title="TR - Kemal Sunal",Bickin (TR)
 http://nxtbox.uk:80/movie/onurYagci/q2nz3S5/10622.mp4
