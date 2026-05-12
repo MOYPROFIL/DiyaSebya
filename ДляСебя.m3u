@@ -151,6 +151,27 @@ http://104.238.23.221/BoncukTV/live/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-logo="" TV13,TEBER CENNET MTV
 #EXTGRP:Azerbaycan
 https://playlist.fasttvcdn.com/pl/3k4ks1xutgm1fve4w1r6vq/cennetmahallesi/playlist/0.m3u8
+#EXTINF:0 tvg-id="3"tvg-logo="https://i.postimg.cc/HsY46nFr/In-Shot-20251214-120450045.png",ŞABAN TV
+#EXTGRP:Azerbaycan
+https://tv191.radyotelekom.com.tr:3996/stream/play.m3u8
+#EXTINF:0 tvg-id="3"tvg-logo="https://i.postimg.cc/zvWWY15P/In-Shot-20260501-201834312.png",KEMAL SUNAL
+#EXTGRP:Azerbaycan
+https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Kemal_Sunal_Tv.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/rwM3jDB6/akkaontvust.png",AKKON TV
+#EXTGRP:Azerbaycan
+https://streams.uzunmuhalefet.com/stream/74555614-af2a-40ca-aaba-eaa665343c5c.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/59BJmjzG/In-Shot-20250920-222453922.png",FİLM SCREEN
+#EXTGRP:Azerbaycan
+https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/13GwQ7tv/In-Shot-20251110-163703864.png",Zalım İstanbul-dizi
+#EXTGRP:Azerbaycan
+https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/zalim_istanbul_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/LXw3XYMn/In-Shot-20251110-163955606.png",Tatlı intikam-dizi
+#EXTGRP:Azerbaycan
+https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/tatli_intikam_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/PJ6hYjSG/In-Shot-20251110-164329421.png",Siyah beyaz aşk-dizi
+#EXTGRP:Azerbaycan
+https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/Siyah_beyaz_ask_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8
 
 #EXTINF:0 tvg-logo="https://i.postimg.cc/jd93RQZk/In-Shot-20251113-181935459.png" group-title="Azerbaycan",SpecialBox Efsane 1 
 http://boxserver.live:8080/live/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96568.ts
@@ -173,27 +194,6 @@ https://v2.catcast.tv/content/48695/seg-25460342-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/saban-tv.png",Şaban tv
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50543/seg-25649090-v1-a1/index.m3u8
-#EXTINF:0 tvg-id="3"tvg-logo="https://i.postimg.cc/HsY46nFr/In-Shot-20251214-120450045.png",ŞABAN TV
-#EXTGRP:Azerbaycan
-https://tv191.radyotelekom.com.tr:3996/stream/play.m3u8
-#EXTINF:0 tvg-id="3"tvg-logo="https://i.postimg.cc/zvWWY15P/In-Shot-20260501-201834312.png",KEMAL SUNAL
-#EXTGRP:Azerbaycan
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Kemal_Sunal_Tv.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/rwM3jDB6/akkaontvust.png",AKKON TV
-#EXTGRP:Azerbaycan
-https://streams.uzunmuhalefet.com/stream/74555614-af2a-40ca-aaba-eaa665343c5c.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/59BJmjzG/In-Shot-20250920-222453922.png",FİLM SCREEN
-#EXTGRP:Azerbaycan
-https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/13GwQ7tv/In-Shot-20251110-163703864.png",Zalım İstanbul-dizi
-#EXTGRP:Azerbaycan
-https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/zalim_istanbul_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/LXw3XYMn/In-Shot-20251110-163955606.png",Tatlı intikam-dizi
-#EXTGRP:Azerbaycan
-https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/tatli_intikam_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/PJ6hYjSG/In-Shot-20251110-164329421.png",Siyah beyaz aşk-dizi
-#EXTGRP:Azerbaycan
-https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/Siyah_beyaz_ask_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/10042025/logos/14862-67f7da5a4db6c.png",Komedi Turk
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/48591/seg-25410428-v1-a1/index.m3u8
@@ -2071,6 +2071,44 @@ https://raw.githubusercontent.com/dedmasteriptv/ATV-Cinema/refs/heads/main/BoxOs
 #EXTINF:0 tvg-id="8783" tvg-logo="http://epg.one/img/8783.png" tvg-name="",Z!Action HD
 #EXTGRP:Kino Action
 https://raw.githubusercontent.com/dedmasteriptv/ATV-Cinema/refs/heads/main/Z_Action.m3u8
+
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="ŞABAN",Kemal Sunal 1
+http://boxserver.live:8080/live/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96602.ts
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="ŞABAN",Kemal Sunal 2
+http://boxserver.live:8080/live/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96603.ts
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="ŞABAN",Kemal Sunal 3
+http://boxserver.live:8080/live/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96604.ts
+#EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="ŞABAN",Kemal Sunal 4
+http://boxserver.live:8080/live/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96605.ts
+
+#EXTINF:0 tvg-id="185937" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="ŞABAN", (TR) ⁷-²⁴ Kemal Sunal 4K ᵘˡᵗʳᵃ 1
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=185937&extension=ts
+#EXTINF:0 tvg-id="186762" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="ŞABAN", (TR) ⁷-²⁴ Kemal Sunal 4K ᵘˡᵗʳᵃ 2
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=186762&extension=ts
+#EXTINF:0 tvg-id="186763" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="ŞABAN", (TR) ⁷-²⁴ Kemal Sunal 4K ᵘˡᵗʳᵃ 3
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=186763&extension=ts
+#EXTINF:0 tvg-id="21070" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="ŞABAN", (TR) ⁷-²⁴ Kemal Sunal 1
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=21070&extension=ts
+#EXTINF:0 tvg-id="2984" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="ŞABAN", (TR) ⁷-²⁴Kemal Sunal 2
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=2984&extension=ts
+#EXTINF:0 tvg-id="47680" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="ŞABAN", (TR) ⁷-²⁴ Kemal Sunal 3
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=47680&extension=ts
+#EXTINF:0 tvg-id="71214" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="ŞABAN", (TR) ⁷-²⁴ Kemal Sunal 4
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=71214&extension=ts
+#EXTINF:0 tvg-id="101020" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="ŞABAN", (TR) ⁷-²⁴ Kemal Sunal 5
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=101020&extension=ts
+#EXTINF:0 tvg-id="184397" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="ŞABAN", (TR) ⁷-²⁴ Kemal Sunal 6
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=184397&extension=ts
+#EXTINF:0 tvg-id="184412" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="ŞABAN", (TR) ⁷-²⁴ Kemal Sunal 7
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=184412&extension=ts
+#EXTINF:0 tvg-id="184426" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="ŞABAN", (TR) ⁷-²⁴ Kemal Sunal 8
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=184426&extension=ts
+#EXTINF:0 tvg-id="184425" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="ŞABAN", (TR) ⁷-²⁴ Kemal Sunal 9
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=184425&extension=ts
+#EXTINF:0 tvg-id="184424" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="ŞABAN", (TR) ⁷-²⁴ Kemal Sunal 10
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=184424&extension=ts
+#EXTINF:0 tvg-id="184416" tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="ŞABAN", (TR) ⁷-²⁴ Hababam Sınıfı
+http://d.devtv.cc:80/play/live.php?mac=00:1A:79:AD:87:75&stream=184416&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="(TR) Kemal Sunal 1" group-title="ŞABAN",(TR) Kemal Sunal 1
 http://nxtbox.uk:80/onurYagci/q2nz3S5/127947
