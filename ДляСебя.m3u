@@ -56,6 +56,9 @@ http://str.yodacdn.net/qafkaz/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xgsAXgV.png", S TV sinema
 #EXTGRP:Azerbaycan
 https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jTmp4fC.png", TV36 AZ
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+http://cdn-stv.yayin.com.tr/stv/stv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bWhRqtz.png", İsmayıllı TV
 #EXTGRP:Azerbaycan
 https://a8.radyotelekom.com.tr:3973/hybrid/play.m3u8
@@ -82,22 +85,16 @@ https://a8.radyotelekom.com.tr:3276/stream/play.m3u8
 http://maxgoldx.xyz:2095/ademr0000/dmm0301cc00bb55/20588
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QW0xBp1.png", kanal 65 cinema
 #EXTGRP:Azerbaycan
-http://maxgoldx.xyz:2095/ademr0000/dmm0301cc00bb55/150457
+https://a8.radyotelekom.com.tr:3063/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZND3n8r.png", kanal 65 komedi
 #EXTGRP:Azerbaycan
-https://live20.bozztv.com/akamaissh101/ssh101/kanal65komedi/playlist.m3u8
+https://a8.radyotelekom.com.tr:3909/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img2/9128.png", ATV Cinema AZ
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/dedmasteriptv/ATV-Cinema/refs/heads/main/ATVCinema.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qHQSpxW.png", Sirius
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wFpA0zL.png", Rihat TV
-#EXTGRP:Azerbaycan
-https://cdn4.yayin.com.tr/rihattv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HWKX9dYw/Alvin-Channel-logo-1.png", Alvin Channel TV
-#EXTGRP:Azerbaycan
-http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLhBkdx.png", cine 1
 #EXTGRP:Azerbaycan
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8
@@ -116,9 +113,6 @@ http://teleontvstreams.supersatadmin.workers.dev/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhRtHJf.png", YANSIMA SİNEMA HDᵀᴿ
 #EXTGRP:Azerbaycan
 https://live20.bozztv.com/akamaissh101/ssh101/ysmtvmedya/playlist.m3u8
-#EXTINF:-1 tvg-logo="tvg-logo="https://i.imgur.com/KhRtHJf.png", YANSIMA SİNEMA 2 HDᵀᴿ
-#EXTGRP:Azerbaycan
-https://live20.bozztv.com/akamaissh101/ssh101/teber9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KpSSF4g.png", YANSIMA music
 #EXTGRP:Azerbaycan
 https://live20.bozztv.com/akamaissh101/ssh101/ymmusictv/playlist.m3u8
@@ -130,12 +124,9 @@ https://host.onlineradyotv.net:8081/tetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yWcGNHj.png", Pati tvᵀᴿ
 #EXTGRP:Azerbaycan
 http://104.238.23.182/d/live/out.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yWcGNHj.png", Pati tv2ᵀᴿ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yWcGNHj.png", Pati tvᵀᴿ
 #EXTGRP:Azerbaycan
 http://5.178.103.239:55/d/live/out.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VAG8ZQ5.png", SDM TVᵀᴿ
-#EXTGRP:Azerbaycan
-https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rFWP1V8B/1757188084827.png", Play TVᵀᴿ
 #EXTGRP:Azerbaycan
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
@@ -172,7 +163,33 @@ https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/tatli_intikam_dizi/playlis
 #EXTINF:0 tvg-logo="https://i.postimg.cc/PJ6hYjSG/In-Shot-20251110-164329421.png",Siyah beyaz aşk-dizi
 #EXTGRP:Azerbaycan
 https://demiroren.daioncdn.net/wdaa1icvrx6m7uadvqs0dw/Siyah_beyaz_ask_dizi/playlist.m3u8?app=kanald_web&ce=3?=.m3u8
-
+#EXTINF:0 tvg-logo="https://i.postimg.cc/SKwctyyX/In-Shot-20260225-191247198.png",TEBER HILAL 1
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://azerbaycan.biz-az.workers.dev/hilal1.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/SKwctyyX/In-Shot-20260225-191247198.png",TEBER STAR 1
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+http://boztv.smartiptvworld.workers.dev/star1.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/SKwctyyX/In-Shot-20260225-191247198.png",TEBER CEVIK
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://azerbaycan.biz-az.workers.dev/cevik_tv.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/SKwctyyX/In-Shot-20260225-191247198.png",TEBER AKTIF
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://azerbaycan.biz-az.workers.dev/aktif_tv.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/SKwctyyX/In-Shot-20260225-191247198.png",HBB TV
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://azerbaycan.biz-az.workers.dev/hbb_tv.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/SKwctyyX/In-Shot-20260225-191247198.png",TV 6
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://azerbaycan.biz-az.workers.dev/yer_6.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/SKwctyyX/In-Shot-20260225-191247198.png",MEGA
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://azerbaycan.biz-az.workers.dev/mega_tv.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/SKwctyyX/In-Shot-20260225-191247198.png",TEBER ON
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://azerbaycan.biz-az.workers.dev/tele_on_plus.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/SKwctyyX/In-Shot-20260225-191247198.png",TEBER STAR
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+http://boztv.smartiptvworld.workers.dev/teber_star.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/jd93RQZk/In-Shot-20251113-181935459.png" group-title="Azerbaycan",SpecialBox Efsane 1 
 http://boxserver.live:8080/live/@5858STReAM_SPeCiALBoX_VoD_Xx01015858/5858sDzBrCDYzaJD5858/96568.ts
 #EXTINF:0 tvg-logo="https://i.postimg.cc/jd93RQZk/In-Shot-20251113-181935459.png" group-title="Azerbaycan",SpecialBox Efsane 2 
@@ -200,9 +217,6 @@ https://v2.catcast.tv/content/48591/seg-25410428-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/VkdXZ2VX/In-Shot-20260216-091910542.png",Az Film
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50545/seg-25649109-v1-a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yYVPz0L/In-Shot-20260403-220516775.png",SIRIUS TV AZ film
-#EXTGRP:Azerbaycan
-https://v2.catcast.tv/content/50904/seg-26002688-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",-gaydasiz doyusler
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50950/seg-26028691-v1-a1/index.m3u8
@@ -317,8 +331,14 @@ https://v2.catcast.tv/content/50810/seg-25886676-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tvw369x.png",Fanatik Music Nastolji
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50737/seg-25826706-v1-a1/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/pTnz3Yj6/In-Shot-20251124-163426357.png" group-title="🇦🇿 Azərbaycan 🇦🇿",KRALPOP
+http://dygvideo.dygdigital.com/live/hls/kralpop
+#EXTINF:0 tvg-logo="https://i.postimg.cc/NGSjNPby/In-Shot-20260317-133517335.png"group-title="🇦🇿 Azərbaycan 🇦🇿",PLAYBOX MÜZİK tr
+https://catcast.biz-az.workers.dev/index.m3u8/?id=playbox-mzk.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/pTdFP4n1/In-Shot-20260209-102448898.png" group-title="Azerbaycan",MANIFEST MUSIC
 https://catcast.ismailturret.workers.dev/m-724.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/gkykB4xc/In-Shot-20260209-101752277.png" group-title="🇦🇿 Azərbaycan 🇦🇿",MİX MUSİC
+https://catcast.ismailturret.workers.dev/karisikyayin.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8IdzWtT.png", Rihat TV music
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/48302/seg-25410932-v1-a1/index.m3u8
@@ -331,9 +351,6 @@ https://v2.catcast.tv/content/50294/seg-25902977-v1-a1/index.m3u8
 #EXTINF:-1,tvg-logo="https://i.postimg.cc/d3dW8PZG/In-Shot-20260315-104513901.png",Stv aze
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50550/seg-26292642-v1-a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DySv6ZKX/In-Shot-20251019-100938269.png",MEGA TV Music
-#EXTGRP:Azerbaycan
-https://raw.githubusercontent.com/BY-KERIMOFF/yeni/refs/heads/main/catcast/megatvaz.m3u8
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/12072024/banners/47437-669061dfa8088.png",KANAL 65 Music original
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/47437/seg-25409996-v1-a1/index.m3u8
@@ -375,6 +392,9 @@ https://catcast.ismailturret.workers.dev/karisikyayin.m3u8
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/26092020/banners/39199-5f6f8f433735d.png",ALVIN Music
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/39199/seg-25409987-v1-a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/19122020/banners/39575-5fde4d3cdf0bd.png",Viva tv ru
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://catcast.ismailturret.workers.dev/viva-tvrussia.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m1CQBN5.png", GemAZ HD
 #EXTGRP:Azerbaycan
@@ -387,7 +407,7 @@ https://cdn4.yayin.com.tr/bakixebertv/video.m3u8
 https://janya-ayaztv.vgcdn.net/ptnr-Vipo%20TV/title-Ayaz_TV/v1/vglive-sk-934820/AyazTV_1500k.m3u8
 #EXTINF:-1 tvg-logo="https://mahnitv.az/images/logo.png",MAHNI TV
 #EXTGRP:Azerbaycan
-http://xantv.site:41480/MahniTV/video.m3u8
+http://cdn-az.cyriustv.ru/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ro0HPDJ.png", AZ Music HD
 #EXTGRP:Azerbaycan
 https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
@@ -428,6 +448,13 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/in
 #EXTINF:-1 group-title="Azerbaycan" tvg-logo="https://i.postimg.cc/dQGjf1Sp/image-2025-09-08-T101022-455.png",Punjabi Hits
 https://legitpro.co.in/punjabihits/punjabihits/tracks-v1a1/mono.m3u8
 https://mcncdndigital.com/balleballetv/index.m3u8
+#EXTINF:-1,BalaBella tv
+#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
+https://mcncdndigital.com/balleballetv/index.m3u8
+#EXTINF:-1 group-title="🇦🇿 Azərbaycan 🇦🇿",7X MUSIC
+http://stream.e2is.in/hls/7xMusic.m3u8
+#EXTINF:-1 group-title="🇦🇿 Azərbaycan 🇦🇿",AFN Music
+https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5Cr0Zxt/Kanal-35-loqo.png", Kanal 35
 #EXTGRP:Azerbaycan
 https://str2.yodacdn.net/kanal35/tracks-v1a1/mono.m3u8
@@ -474,6 +501,8 @@ https://v2.catcast.tv/content/50547/seg-25649149-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",MR.BEAN az
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50544/seg-25649132-v1-a1/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/66VG0jS0/In-Shot-20251013-202038830.png" group-title="🇦🇿 Azərbaycan 🇦🇿",Çizgi Filmi
+https://streams.uzunmuhalefet.com/stream/f18c5afc-97bb-4790-b124-dd17c70b6217.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/843/693/png-transparent-masha-and-the-bear-illustration-masha-and-the-bear-stuffed-animals-cuddly-toys-animation-television-show-masha-and-the-bear-television-child-animals-thumbnail.png",Sinema Masha i medved
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/37549/seg-25411703-v1-a1/index.m3u8
