@@ -2701,364 +2701,931 @@ https://stream.zuno-tv.workers.dev/channel/9090/19a78a35/index.m3u8
 #EXTINF:-1 group-title="Фильмовые",VF Однажды в России
 https://stream.zuno-tv.workers.dev/channel/9090/n1e05434/index.m3u8
 
-#EXTINF:-1 tvg-id="Russia1.ru" tvg-name="Россия-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png" group-title="СУНДУК ТВ",Россия 1
-http://tmptv.sunduk.tv/CH3/index.m3u8
-#EXTINF:-1 tvg-id="ChannelOne.ru" tvg-name="Первый канал" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="СУНДУК ТВ",Первый канал
-http://tmptv.sunduk.tv/CH1/index.m3u8
-#EXTINF:-1 tvg-id="ChannelOne.ru" tvg-name="Первый канал" tvg-logo="https://i.imgur.com/RUSX0rX.png" group-title="СУНДУК ТВ",Первый канал HD
-http://tmptv.sunduk.tv/CH125/index.m3u8
-#EXTINF:-1 tvg-id="NTV.ru" tvg-name="НТВ" tvg-logo="https://i.imgur.com/9r1BKzK.png" group-title="СУНДУК ТВ",НТВ
-http://tmptv.sunduk.tv/CH7/index.m3u8
-#EXTINF:-1 tvg-id="Channel5.ru" tvg-name="Пятый канал" tvg-logo="https://i.imgur.com/KPXMa3U.png" group-title="СУНДУК ТВ",5 канал
-http://tmptv.sunduk.tv/CH283/index.m3u8
-#EXTINF:-1 tvg-id="STS.ru" tvg-name="СТС" tvg-logo="https://i.imgur.com/ilUzAeb.png" group-title="СУНДУК ТВ",СТС
-http://tmptv.sunduk.tv/CH15/index.m3u8
-#EXTINF:-1 tvg-id="RENTV.ru" tvg-name="РЕН ТВ" tvg-logo="https://i.imgur.com/0Tu5lte.png" group-title="СУНДУК ТВ",Рен ТВ
-http://tmptv.sunduk.tv/CH13/index.m3u8
-#EXTINF:-1 tvg-id="TNT.ru" tvg-name="ТНТ" tvg-logo="https://i.imgur.com/T4A6rEI.png" group-title="СУНДУК ТВ",ТНТ
-http://tmptv.sunduk.tv/CH11/index.m3u8
-#EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Звезда" tvg-logo="https://i.imgur.com/4PAcpfM.png" group-title="СУНДУК ТВ",Звезда
-http://tmptv.sunduk.tv/CH285/index.m3u8
-#EXTINF:-1 tvg-id="Friday.ru" tvg-name="Пятница!" tvg-logo="https://i.imgur.com/UfmlXxe.png" group-title="СУНДУК ТВ",Пятница!
-http://tmptv.sunduk.tv/CH17/index.m3u8
-#EXTINF:-1 tvg-id="TVCentr.ru" tvg-name="ТВ Центр" tvg-logo="https://i.imgur.com/fIkd01t.png" group-title="СУНДУК ТВ",ТВ Центр
-http://tmptv.sunduk.tv/CH5/index.m3u8
-#EXTINF:-1 tvg-id="Mir.ru" tvg-name="Мир" tvg-logo="https://i.imgur.com/Murt4NK.png" group-title="СУНДУК ТВ",Мир [
-http://tmptv.sunduk.tv/CH201/index.m3u8
-#EXTINF:-1 tvg-id="T24.ru" tvg-name="Т24" tvg-logo="https://i.imgur.com/uHR6Zkq.png" group-title="СУНДУК ТВ",Т24
-http://tmptv.sunduk.tv/CH173/index.m3u8
-#EXTINF:-1 tvg-id="Russia24.ru" tvg-name="Россия-24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png" group-title="СУНДУК ТВ",Россия 24
-http://tmptv.sunduk.tv/CH85/index.m3u8
-#EXTINF:-1 tvg-id="RBKTV.ru" tvg-name="РБК" tvg-logo="https://i.imgur.com/CwhmJby.png" group-title="СУНДУК ТВ",РБК ТВ
-http://tmptv.sunduk.tv/CH59/index.m3u8
-#EXTINF:-1 tvg-id="RTVi.ru" tvg-name="RTVI" tvg-logo="https://i.imgur.com/1AEhXyS.png" group-title="СУНДУК ТВ",RTVI
-http://tmptv.sunduk.tv/CH541/index.m3u8
-#EXTINF:-1 tvg-id="EuronewsRussian.fr" tvg-name="Euronews по-русски" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="СУНДУК ТВ",EuroNews
-http://tmptv.sunduk.tv/CH31/index.m3u8
-#EXTINF:-1 tvg-id="TVRain.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tvrain.svg/512px-Tvrain.svg.png" group-title="СУНДУК ТВ",Дождь (СМИ-иноагент)
-http://tmptv.sunduk.tv/CH251/index.m3u8
-#EXTINF:-1 tvg-id="Mult.ru" tvg-name="Мульт" tvg-logo="https://i.imgur.com/xi351Fx.png" group-title="СУНДУК ТВ",Мульт
-http://tmptv.sunduk.tv/CH319/index.m3u8
-#EXTINF:-1 tvg-id="Cartoonito.uk" tvg-name="Cartoonito" tvg-logo="https://i.imgur.com/B29D2s1.png" group-title="СУНДУК ТВ",Cartoonito
-http://tmptv.sunduk.tv/CH443/index.m3u8
-#EXTINF:-1 tvg-id="GulliGirl.ru" tvg-name="Gulli Girl" tvg-logo="https://i.imgur.com/lbViDuC.png" group-title="СУНДУК ТВ",Gulli Girl
-http://tmptv.sunduk.tv/CH347/index.m3u8
-#EXTINF:-1 tvg-name="JimJam" tvg-logo="https://i.imgur.com/ODhkYyx.png" group-title="СУНДУК ТВ",JimJam
-http://tmptv.sunduk.tv/CH277/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.ru" tvg-name="Nickelodeon Россия" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="СУНДУК ТВ",Nickelodeon
-http://tmptv.sunduk.tv/CH37/index.m3u8
-#EXTINF:-1 tvg-id="TiJi.ru" tvg-name="TiJi" tvg-logo="https://i.imgur.com/QCOUJ30.png" group-title="СУНДУК ТВ",TiJi
-http://tmptv.sunduk.tv/CH349/index.m3u8
-#EXTINF:-1 tvg-id="Vgostyakhuskazki.ru" tvg-name="В гостях у сказки" tvg-logo="https://i.imgur.com/jNJkLHl.png" group-title="СУНДУК ТВ",В гостях у сказки
-http://tmptv.sunduk.tv/CH309/index.m3u8
-#EXTINF:-1 tvg-id="Detskimir.ru" tvg-name="Детский мир" tvg-logo="https://i.imgur.com/bBVEP0S.png" group-title="СУНДУК ТВ",Детский Мир
-http://tmptv.sunduk.tv/CH35/index.m3u8
-#EXTINF:-1 tvg-id="Carousel.ru" tvg-name="Карусель" tvg-logo="https://i.imgur.com/4wmnx1W.png" group-title="СУНДУК ТВ",Карусель
-http://tmptv.sunduk.tv/CH69/index.m3u8
-#EXTINF:-1 tvg-id="Mama.ru" tvg-name="Мама" tvg-logo="https://i.imgur.com/8o8QHOz.png" group-title="СУНДУК ТВ",Мама
-http://tmptv.sunduk.tv/CH155/index.m3u8
-#EXTINF:-1 tvg-id="Multilandia.ru" tvg-name="Мультиландия" tvg-logo="https://i.imgur.com/ccwijY0.png" group-title="СУНДУК ТВ",Мультиландия
-http://tmptv.sunduk.tv/CH197/index.m3u8
-#EXTINF:-1 tvg-id="O.ru" tvg-name="О!" tvg-logo="https://i.imgur.com/pDc665V.png" group-title="СУНДУК ТВ",О!
-http://tmptv.sunduk.tv/CH297/index.m3u8
-#EXTINF:-1 tvg-id="STSkids.ru" tvg-name="СТС Kids" tvg-logo="https://i.imgur.com/o9kLpAL.png" group-title="СУНДУК ТВ",СТС Kids
-http://tmptv.sunduk.tv/CH729/index.m3u8
-#EXTINF:-1 tvg-id="Solnce.ru" tvg-name="Солнце" tvg-logo="https://i.imgur.com/rec9akk.png" group-title="СУНДУК ТВ",Солнце
-http://tmptv.sunduk.tv/CH99/index.m3u8
-#EXTINF:-1 tvg-id="SuperGeroi.ru" tvg-name="СуперГерои" tvg-logo="https://i.imgur.com/c0zZUR1.png" group-title="СУНДУК ТВ",Супер Герои
-http://tmptv.sunduk.tv/CH877/index.m3u8
-#EXTINF:-1 tvg-id="Unikum.ru" tvg-name="Уникум" tvg-logo="https://i.imgur.com/kSJZjDL.png" group-title="СУНДУК ТВ",Уникум
-http://tmptv.sunduk.tv/CH167/index.m3u8
-#EXTINF:-1 tvg-id="red.ru" tvg-name=".red" tvg-logo="https://i.imgur.com/GET9Qut.png" group-title="СУНДУК ТВ",.red
-http://tmptv.sunduk.tv/CH147/index.m3u8
-#EXTINF:-1 tvg-id="red.ru" tvg-name=".red" tvg-logo="https://i.imgur.com/GET9Qut.png" group-title="СУНДУК ТВ",.red HD
-http://tmptv.sunduk.tv/CH453/index.m3u8
-#EXTINF:-1 tvg-id="scifi.ru" tvg-name=".sci-fi" tvg-logo="https://i.imgur.com/nSSUHcg.png" group-title="СУНДУК ТВ",.sci-fi
-http://tmptv.sunduk.tv/CH175/index.m3u8
-#EXTINF:-1 tvg-id="A2.ru" tvg-name="А2" tvg-logo="https://i.imgur.com/NqHla2V.png" group-title="СУНДУК ТВ",Amedia 2
-http://tmptv.sunduk.tv/CH411/index.m3u8
-#EXTINF:-1 tvg-id="AmediaHit.ru" tvg-name="Amedia Hit" tvg-logo="https://i.imgur.com/a8ZBGBw.png" group-title="СУНДУК ТВ",Amedia Hit
-http://tmptv.sunduk.tv/CH763/index.m3u8
-#EXTINF:-1 tvg-id="AmediaHit.ru" tvg-name="Amedia Hit" tvg-logo="https://i.imgur.com/a8ZBGBw.png" group-title="СУНДУК ТВ",Amedia Hit HD
-http://tmptv.sunduk.tv/CH3887/index.m3u8
-#EXTINF:-1 tvg-id="AmediaPremium.ru" tvg-name="Amedia Premium" tvg-logo="https://i.imgur.com/UUjehw9.png" group-title="СУНДУК ТВ",Amedia Premium HD
-http://tmptv.sunduk.tv/CH301/index.m3u8
-#EXTINF:-1 tvg-id="Cinema.ru" tvg-name="Cinema" tvg-logo="https://i.imgur.com/sP15Oc9.png" group-title="СУНДУК ТВ",Cinema
-http://tmptv.sunduk.tv/CH355/index.m3u8
-#EXTINF:-1 tvg-id="Fox.ru" tvg-name="FOX" tvg-logo="https://i.imgur.com/nr1Y67Z.png" group-title="СУНДУК ТВ",FOX
-http://tmptv.sunduk.tv/CH161/index.m3u8
-#EXTINF:-1 tvg-id="FoxLife.ru" tvg-name="Fox Life" tvg-logo="https://i.imgur.com/O2miSLA.png" group-title="СУНДУК ТВ",Fox Life
-http://tmptv.sunduk.tv/CH159/index.m3u8
-#EXTINF:-1 tvg-id="HollywoodHD.ru" tvg-logo="https://i.imgur.com/7fBRrTL.png" group-title="СУНДУК ТВ",HollywooD HD
-http://tmptv.sunduk.tv/CH291/index.m3u8
-#EXTINF:-1 tvg-id="ShotTV.ru" tvg-name="Shot TV" tvg-logo="https://i.imgur.com/MLSG7tA.png" group-title="СУНДУК ТВ",Shot TV
-http://tmptv.sunduk.tv/CH249/index.m3u8
-#EXTINF:-1 tvg-id="vijuTV1000.ru" tvg-name="viju TV1000" tvg-logo="https://i.imgur.com/ZMsyjSr.png" group-title="СУНДУК ТВ",viju TV1000
-http://tmptv.sunduk.tv/CH141/index.m3u8
-#EXTINF:-1 tvg-id="vijuTV1000.ru" tvg-name="viju TV1000" tvg-logo="https://i.imgur.com/ZMsyjSr.png" group-title="СУНДУК ТВ",viju TV1000 HD
-http://tmptv.sunduk.tv/CH3869/index.m3u8
-#EXTINF:-1 tvg-id="vijuTV1000action.ru" tvg-name="TV1000 Action East" tvg-logo="https://i.imgur.com/TMmyuzh.png" group-title="СУНДУК ТВ",viju TV1000 Action
-http://tmptv.sunduk.tv/CH143/index.m3u8
-#EXTINF:-1 tvg-id="vijuTV1000action.ru" tvg-name="TV1000 Action East" tvg-logo="https://i.imgur.com/TMmyuzh.png" group-title="СУНДУК ТВ",viju TV1000 Action HD
-http://tmptv.sunduk.tv/CH3867/index.m3u8
-#EXTINF:-1 tvg-id="vijuTV1000russkoe.ru" tvg-name="viju TV1000 русское" tvg-logo="https://i.imgur.com/Meak2y4.png" group-title="СУНДУК ТВ",viju TV1000 Русское
-http://tmptv.sunduk.tv/CH139/index.m3u8
-#EXTINF:-1 tvg-id="vijuPlusComedy.ru" tvg-name="ViP Comedy" tvg-logo="https://i.imgur.com/YoNOFu7.png" group-title="СУНДУК ТВ",viju+ Comedy HD
-http://tmptv.sunduk.tv/CH311/index.m3u8
-#EXTINF:-1 tvg-id="vijuPlusMegahit.ru" tvg-name="TV1000 Megahit" tvg-logo="https://i.imgur.com/oIQNddV.png" group-title="СУНДУК ТВ",viju+ Megahit HD
-http://tmptv.sunduk.tv/CH313/index.m3u8
-#EXTINF:-1 tvg-id="vijuPlusPremiere.ru" tvg-name="ViP Premiere" tvg-logo="https://i.imgur.com/klRvhR5.png" group-title="СУНДУК ТВ",viju+ Premiere HD
-http://tmptv.sunduk.tv/CH315/index.m3u8
-#EXTINF:-1 tvg-id="Domkino.ru" tvg-name="Дом кино" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/512px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" group-title="СУНДУК ТВ",Дом Кино
-http://tmptv.sunduk.tv/CH73/index.m3u8
-#EXTINF:-1 tvg-id="Evrokino.ru" tvg-name="Еврокино" tvg-logo="https://i.imgur.com/8LPtPf6.png" group-title="СУНДУК ТВ",Еврокино
-http://tmptv.sunduk.tv/CH163/index.m3u8
-#EXTINF:-1 tvg-id="IllusionPlus.ru" tvg-name="Иллюзион+" tvg-logo="https://i.imgur.com/9GvuHQ5.png" group-title="СУНДУК ТВ",Иллюзион+
-http://tmptv.sunduk.tv/CH323/index.m3u8
-#EXTINF:-1 tvg-id="IndiyskoyeKino.ru" tvg-name="Индийское кино" tvg-logo="https://i.imgur.com/LL8GyCh.png" group-title="СУНДУК ТВ",Индийское кино
-http://tmptv.sunduk.tv/CH107/index.m3u8
-#EXTINF:-1 tvg-id="KapitanFantastika.ru" tvg-name="Капитан Фантастика" tvg-logo="https://i.imgur.com/K3PSHiT.png" group-title="СУНДУК ТВ",Капитан Фантастика HD
-http://tmptv.sunduk.tv/CH561/index.m3u8
-#EXTINF:-1 tvg-id="KinoTV.ru" tvg-name="Кино ТВ" tvg-logo="https://i.imgur.com/L01RjKe.png" group-title="СУНДУК ТВ",Кино ТВ HD
-http://tmptv.sunduk.tv/CH559/index.m3u8
-#EXTINF:-1 tvg-id="Kinohit.ru" tvg-logo="https://i.imgur.com/Ge8vkQM.png" group-title="СУНДУК ТВ",КиноХит HD
-http://tmptv.sunduk.tv/CH3881/index.m3u8
-#EXTINF:-1 tvg-id="Kinohit.ru" tvg-logo="https://i.imgur.com/Ge8vkQM.png" group-title="СУНДУК ТВ",КиноХит
-http://tmptv.sunduk.tv/CH57/index.m3u8
-#EXTINF:-1 tvg-id="Kinokomedija.ru" tvg-name="Кинокомедия" tvg-logo="https://i.imgur.com/1Z9VTM6.png" group-title="СУНДУК ТВ",Кинокомедия
-http://tmptv.sunduk.tv/CH47/index.m3u8
-#EXTINF:-1 tvg-id="Kinomix.ru" tvg-name="Киномикс" tvg-logo="https://i.imgur.com/OGUMa1A.png" group-title="СУНДУК ТВ",Киномикс HD
-http://tmptv.sunduk.tv/CH3873/index.m3u8
-#EXTINF:-1 tvg-id="Kinomix.ru" tvg-name="Киномикс" tvg-logo="https://i.imgur.com/OGUMa1A.png" group-title="СУНДУК ТВ",Киномикс
-http://tmptv.sunduk.tv/CH279/index.m3u8
-#EXTINF:-1 tvg-id="Kinopokaz.ru" tvg-name="Кинопоказ" tvg-logo="https://i.imgur.com/nNjMyAq.png" group-title="СУНДУК ТВ",Кинопоказ
-http://tmptv.sunduk.tv/CH215/index.m3u8
-#EXTINF:-1 tvg-id="Kinopremyera.ru" tvg-name="Кинопремьера" tvg-logo="https://i.imgur.com/lgvOVxm.png" group-title="СУНДУК ТВ",Кинопремьера HD
-http://tmptv.sunduk.tv/CH299/index.m3u8
-#EXTINF:-1 tvg-id="Kinosvidanie.ru" tvg-name="Киносвидание" tvg-logo="https://i.imgur.com/ZRaWqxj.png" group-title="СУНДУК ТВ",Киносвидание
-http://tmptv.sunduk.tv/CH21/index.m3u8
-#EXTINF:-1 tvg-id="Kinosemja.ru" tvg-name="Киносемья" tvg-logo="https://i.imgur.com/ML0TEYb.png" group-title="СУНДУК ТВ",Киносемья
-http://tmptv.sunduk.tv/CH25/index.m3u8
-#EXTINF:-1 tvg-id="Kinouzhas.ru" tvg-name="Киноужас" tvg-logo="https://i.imgur.com/mAcAAQF.png" group-title="СУНДУК ТВ",Киноужас HD
-http://tmptv.sunduk.tv/CH409/index.m3u8
-#EXTINF:-1 tvg-id="Komediynoe.ru" tvg-name="Комедийное" tvg-logo="https://i.imgur.com/cEKe8XC.png" group-title="СУНДУК ТВ",Комедийное HD
-http://tmptv.sunduk.tv/CH231/index.m3u8
-#EXTINF:-1 tvg-id="Lyubimoe.ru" tvg-name="Любимое" tvg-logo="https://i.imgur.com/qWK6WvG.png" group-title="СУНДУК ТВ",Любимое HD
-http://tmptv.sunduk.tv/CH717/index.m3u8
-#EXTINF:-1 tvg-id="NasheLubimoeKino.ru" tvg-name="Любимое Кино" tvg-logo="https://i.imgur.com/vBR6oX6.png" group-title="СУНДУК ТВ",Любимое кино
-http://tmptv.sunduk.tv/CH521/index.m3u8
-#EXTINF:-1 tvg-id="MirSeriala.ru" tvg-name="Мир Сериала" tvg-logo="https://i.imgur.com/uzj7wVp.png" group-title="СУНДУК ТВ",Мир сериала
-http://tmptv.sunduk.tv/CH451/index.m3u8
-#EXTINF:-1 tvg-id="Muzhskoekino.ru" tvg-name="Мужское кино" tvg-logo="https://i.imgur.com/8RN3tQC.png" group-title="СУНДУК ТВ",Мужское кино
-http://tmptv.sunduk.tv/CH3817/index.m3u8
-#EXTINF:-1 tvg-id="Muzhskoekino.ru" tvg-name="Мужское кино" tvg-logo="https://i.imgur.com/8RN3tQC.png" group-title="СУНДУК ТВ",Мужское кино HD
-http://tmptv.sunduk.tv/CH245/index.m3u8
-#EXTINF:-1 tvg-id="NST.ru" tvg-name="НСТ" tvg-logo="https://i.imgur.com/uv2yxa5.png" group-title="СУНДУК ТВ",НСТ
-http://tmptv.sunduk.tv/CH157/index.m3u8
-#EXTINF:-1 tvg-id="Nashe.ru" tvg-name="Наше" tvg-logo="https://i.imgur.com/KO8dhi9.png" group-title="СУНДУК ТВ",Наше HD
-http://tmptv.sunduk.tv/CH551/index.m3u8
-#EXTINF:-1 tvg-id="NasheNovoeKino.ru" tvg-name="Наше новое кино" tvg-logo="https://i.imgur.com/IOxIsPj.png" group-title="СУНДУК ТВ",Наше новое кино
-http://tmptv.sunduk.tv/CH61/index.m3u8
-#EXTINF:-1 tvg-id="Ostrosyuzhetnoye.ru" tvg-name="Остросюжетное" tvg-logo="https://i.imgur.com/xGIEXoa.png" group-title="СУНДУК ТВ",Остросюжетное HD
-http://tmptv.sunduk.tv/CH547/index.m3u8
-#EXTINF:-1 tvg-id="Premialnoe.ru" tvg-name="Премиальное" tvg-logo="https://i.imgur.com/ck4aLBP.png" group-title="СУНДУК ТВ",Премиальное HD
-http://tmptv.sunduk.tv/CH545/index.m3u8
-#EXTINF:-1 tvg-id="RodnoeKino.ru" tvg-name="Родное Кино" tvg-logo="https://i.imgur.com/H70LxoZ.png" group-title="СУНДУК ТВ",Родное кино
-http://tmptv.sunduk.tv/CH23/index.m3u8
-#EXTINF:-1 tvg-id="RusskiyDetektiv.ru" tvg-name="Русский детектив" tvg-logo="https://i.imgur.com/kaRKp2u.png" group-title="СУНДУК ТВ",Русский детектив
-http://tmptv.sunduk.tv/CH437/index.m3u8
-#EXTINF:-1 tvg-name="ТВ 21" tvg-logo="https://images.iptv.rt.ru/images/cjkbe9rir4ssk120mj1g.png" group-title="СУНДУК ТВ",ТВ 21
-http://tmptv.sunduk.tv/CH145/index.m3u8
-#EXTINF:-1 tvg-id="FeniksplusKino.ru" tvg-name="Феникс+ Кино" tvg-logo="https://i.imgur.com/JH3byQL.png" group-title="СУНДУК ТВ",Феникс+Кино
-http://tmptv.sunduk.tv/CH327/index.m3u8
-#EXTINF:-1 tvg-id="Shokiruyushchee.ru" tvg-name="Шокирующее" tvg-logo="https://i.imgur.com/UG63hZ0.png" group-title="СУНДУК ТВ",Шокирующее HD
-http://tmptv.sunduk.tv/CH229/index.m3u8
-#EXTINF:-1 tvg-id="VHSka.ru" tvg-name="VHS-ка" tvg-logo="https://i.imgur.com/C2377w9.png" group-title="СУНДУК ТВ",VHS-ка HD
-http://tmptv.sunduk.tv/CH5505/index.m3u8
-#EXTINF:-1 tvg-id="365daysTV.ru" tvg-name="365 дней ТВ" tvg-logo="https://i.imgur.com/NfnAiTR.png" group-title="СУНДУК ТВ",365 дней ТВ
-http://tmptv.sunduk.tv/CH333/index.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet.ru" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="СУНДУК ТВ",Animal Planet
-http://tmptv.sunduk.tv/CH33/index.m3u8
-#EXTINF:-1 tvg-id="DaVinci.ru" tvg-name="Da Vinci" tvg-logo="https://i.imgur.com/iBx7K1M.png" group-title="СУНДУК ТВ",Da Vinci
-http://tmptv.sunduk.tv/CH205/index.m3u8
-#EXTINF:-1 tvg-id="TaynyGalaktiki.ru" tvg-name="Тайны Галактики" tvg-logo="https://i.imgur.com/fR3abSD.png" group-title="СУНДУК ТВ",Galaxy
-http://tmptv.sunduk.tv/CH445/index.m3u8
-#EXTINF:-1 tvg-id="History.ru" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="СУНДУК ТВ",History HD
-http://tmptv.sunduk.tv/CH303/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.ru" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="СУНДУК ТВ",National Geographic
-http://tmptv.sunduk.tv/CH53/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-name="Nat Geo Wild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="СУНДУК ТВ",National Geographic Wild
-http://tmptv.sunduk.tv/CH83/index.m3u8
-#EXTINF:-1 tvg-id="RTGHD.ru" tvg-logo="https://i.imgur.com/jEkgahl.png" group-title="СУНДУК ТВ",RTG HD
-http://tmptv.sunduk.tv/CH179/index.m3u8
-#EXTINF:-1 tvg-id="TLC.ru" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="СУНДУК ТВ",TLC
-http://tmptv.sunduk.tv/CH41/index.m3u8
-#EXTINF:-1 tvg-id="TravelChannel.uk" tvg-logo="https://i.imgur.com/0GuAJ4W.png" group-title="СУНДУК ТВ",Travel Channel HD
-http://tmptv.sunduk.tv/CH305/index.m3u8
-#EXTINF:-1 tvg-id="TravelPlusAdventure.ru" tvg-name="Travel+Adventure" tvg-logo="https://i.imgur.com/AlpdXC4.png" group-title="СУНДУК ТВ",Travel+Adventure
-http://tmptv.sunduk.tv/CH273/index.m3u8
-#EXTINF:-1 tvg-id="vijuHistory.ru" tvg-name="Viju History" tvg-logo="https://i.imgur.com/FqWkeXb.png" group-title="СУНДУК ТВ",viju History
-http://tmptv.sunduk.tv/CH133/index.m3u8
-#EXTINF:-1 tvg-id="vijuNature.ru" tvg-name="Viju Nature" tvg-logo="https://i.imgur.com/8BPZ18l.png" group-title="СУНДУК ТВ",viju Nature
-http://tmptv.sunduk.tv/CH203/index.m3u8
-#EXTINF:-1 tvg-id="Vremya.ru" tvg-name="Время" tvg-logo="https://i.imgur.com/jZlj3ga.png" group-title="СУНДУК ТВ",Время
-http://tmptv.sunduk.tv/CH217/index.m3u8
-#EXTINF:-1 tvg-id="Doctor.ru" tvg-name="Доктор" tvg-logo="https://i.imgur.com/VNirxxn.png" group-title="СУНДУК ТВ",Доктор
-http://tmptv.sunduk.tv/CH101/index.m3u8
-#EXTINF:-1 tvg-id="Drive.ru" tvg-name="Драйв" tvg-logo="https://i.imgur.com/FnuwfSC.png" group-title="СУНДУК ТВ",Драйв
-http://tmptv.sunduk.tv/CH165/index.m3u8
-#EXTINF:-1 tvg-id="Zhivayapriroda.ru" tvg-name="Живая природа" tvg-logo="https://i.imgur.com/9lHQPdN.png" group-title="СУНДУК ТВ",Живая природа HD
-http://tmptv.sunduk.tv/CH497/index.m3u8
-#EXTINF:-1 tvg-id="ZdorovoeTV.ru" tvg-name="Здоровое ТВ" tvg-logo="https://i.imgur.com/jedtE5l.png" group-title="СУНДУК ТВ",Здоровое ТВ
-http://tmptv.sunduk.tv/CH169/index.m3u8
-#EXTINF:-1 tvg-id="ZooTV.ru" tvg-name="Зоо ТВ" tvg-logo="https://i.imgur.com/p7WzqGS.png" group-title="СУНДУК ТВ",Зоо ТВ
-http://tmptv.sunduk.tv/CH565/index.m3u8
-#EXTINF:-1 tvg-id="Istoriya.ru" tvg-name="История" tvg-logo="https://i.imgur.com/7fZXK7y.png" group-title="СУНДУК ТВ",История
-http://tmptv.sunduk.tv/CH423/index.m3u8
-#EXTINF:-1 tvg-id="Ktoestkto.ru" tvg-name="Кто есть кто" tvg-logo="https://i.imgur.com/jAsj6yl.png" group-title="СУНДУК ТВ",Кто есть кто
-http://tmptv.sunduk.tv/CH343/index.m3u8
-#EXTINF:-1 tvg-id="MoyaPlaneta.ru" tvg-name="Моя Планета" tvg-logo="https://i.imgur.com/D5d3lMJ.png" group-title="СУНДУК ТВ",Моя Планета
-http://tmptv.sunduk.tv/CH225/index.m3u8
-#EXTINF:-1 tvg-id="Nauka.ru" tvg-name="Наука" tvg-logo="https://i.imgur.com/ZZxzueO.png" group-title="СУНДУК ТВ",Наука
-http://tmptv.sunduk.tv/CH259/index.m3u8
-#EXTINF:-1 tvg-id="Nostalgia.ru" tvg-name="Ностальгия" tvg-logo="https://i.imgur.com/YBdBc0J.png" group-title="СУНДУК ТВ",Ностальгия
-http://tmptv.sunduk.tv/CH331/index.m3u8
-#EXTINF:-1 tvg-id="Priklyucheniya.ru" tvg-name="Приключения" tvg-logo="https://i.imgur.com/qQ6pPPQ.png" group-title="СУНДУК ТВ",Приключения HD
-http://tmptv.sunduk.tv/CH233/index.m3u8
-#EXTINF:-1 tvg-id="Psikhologiya.ru" tvg-name="Психология" tvg-logo="https://i.imgur.com/GsfedKS.png" group-title="СУНДУК ТВ",Психология
-http://tmptv.sunduk.tv/CH209/index.m3u8
-#EXTINF:-1 tvg-id="RussiaK.ru" tvg-name="Россия-К" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/512px-Russia-Cultura.svg.png" group-title="СУНДУК ТВ",Россия К
-http://tmptv.sunduk.tv/CH103/index.m3u8
-#EXTINF:-1 tvg-id="TopSecret.ru" tvg-name="Совершенно секретно" tvg-logo="https://i.imgur.com/HM4xy4G.png" group-title="СУНДУК ТВ",Совершенно секретно
-http://tmptv.sunduk.tv/CH357/index.m3u8
-#EXTINF:-1 tvg-id="Teleputeshestviya.ru" tvg-name="Телепутешествия" tvg-logo="https://i.imgur.com/eXJm1n3.png" group-title="СУНДУК ТВ",Телепутешествия
-http://tmptv.sunduk.tv/CH391/index.m3u8
-#EXTINF:-1 tvg-name="Точка РФ" tvg-logo="https://i.imgur.com/tKgmhxh.png" group-title="СУНДУК ТВ",Точка РФ HD
-http://tmptv.sunduk.tv/CH237/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport1.ru" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="СУНДУК ТВ",Eurosport 1
-http://tmptv.sunduk.tv/CH29/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="Eurosport 2" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="СУНДУК ТВ",Eurosport 2
-http://tmptv.sunduk.tv/CH75/index.m3u8
-#EXTINF:-1 tvg-id="KHL.ru" tvg-name="КХЛ" tvg-logo="https://i.imgur.com/RgdHdOV.png" group-title="СУНДУК ТВ",KHL
-http://tmptv.sunduk.tv/CH247/index.m3u8
-#EXTINF:-1 tvg-id="KHLPrime.ru" tvg-name="KHL Prime" tvg-logo="https://i.imgur.com/pwxT0ON.png" group-title="СУНДУК ТВ",KHL Prime HD
-http://tmptv.sunduk.tv/CH293/index.m3u8
-#EXTINF:-1 tvg-id="vijuPlusSport.ru" tvg-name="Viasat Sport" tvg-logo="https://i.imgur.com/fXESG0l.png" group-title="СУНДУК ТВ",viju+ Sport
-http://tmptv.sunduk.tv/CH131/index.m3u8
-#EXTINF:-1 tvg-id="BoksTV.ru" tvg-name="Бокс ТВ" tvg-logo="https://i.imgur.com/R1UjyfX.png" group-title="СУНДУК ТВ",Бокс ТВ
-http://tmptv.sunduk.tv/CH707/index.m3u8
-#EXTINF:-1 tvg-id="Match.ru" tvg-name="Матч!" tvg-logo="https://i.imgur.com/iKZvKyP.png" group-title="СУНДУК ТВ",Матч!
-http://tmptv.sunduk.tv/CH9/index.m3u8
-#EXTINF:-1 tvg-id="MatchArena.ru" tvg-name="Матч! Арена" tvg-logo="https://i.imgur.com/udTzwzu.png" group-title="СУНДУК ТВ",Матч! Арена
-http://tmptv.sunduk.tv/CH227/index.m3u8
-#EXTINF:-1 tvg-id="MatchBoets.ru" tvg-name="Матч! Боец" tvg-logo="https://i.imgur.com/DogOkA4.png" group-title="СУНДУК ТВ",Матч! Боец
-http://tmptv.sunduk.tv/CH51/index.m3u8
-#EXTINF:-1 tvg-id="MatchIgra.ru" tvg-name="Матч! Игра" tvg-logo="https://i.imgur.com/5XWpF19.png" group-title="СУНДУК ТВ",Матч! Игра
-http://tmptv.sunduk.tv/CH255/index.m3u8
-#EXTINF:-1 tvg-id="MatchPlaneta.ru" tvg-name="Матч! Планета" tvg-logo="https://i.imgur.com/Jv7RwGq.png" group-title="СУНДУК ТВ",Матч! Планета
-http://tmptv.sunduk.tv/CH27/index.m3u8
-#EXTINF:-1 tvg-id="MatchPremier.ru" tvg-name="Матч! Премьер" tvg-logo="https://i.imgur.com/GQPyHYK.png" group-title="СУНДУК ТВ",Матч! Премьер
-http://tmptv.sunduk.tv/CH63/index.m3u8
-#EXTINF:-1 tvg-id="MatchStrana.ru" tvg-name="Матч! Страна" tvg-logo="https://i.imgur.com/X02s2UE.png" group-title="СУНДУК ТВ",Матч! Страна
-http://tmptv.sunduk.tv/CH223/index.m3u8
-#EXTINF:-1 tvg-id="MatchFutbol1.ru" tvg-name="Матч! Футбол 1" tvg-logo="https://i.imgur.com/XS2BB02.png" group-title="СУНДУК ТВ",Матч! Футбол 1
-http://tmptv.sunduk.tv/CH95/index.m3u8
-#EXTINF:-1 tvg-id="MatchFutbol2.ru" tvg-name="Матч! Футбол 2" tvg-logo="https://i.imgur.com/WhdGfSo.png" group-title="СУНДУК ТВ",Матч! Футбол 2
-http://tmptv.sunduk.tv/CH329/index.m3u8
-#EXTINF:-1 tvg-id="MatchFutbol3.ru" tvg-name="Матч! Футбол 3" tvg-logo="https://i.imgur.com/P2ReH1u.png" group-title="СУНДУК ТВ",Матч! Футбол 3
-http://tmptv.sunduk.tv/CH407/index.m3u8
-#EXTINF:-1 tvg-id="RussianExtreme.ru" tvg-name="Русский Экстрим" tvg-logo="https://i.imgur.com/qjx6zZV.png" group-title="СУНДУК ТВ",Русский Экстрим HD
-http://tmptv.sunduk.tv/CH3849/index.m3u8
-#EXTINF:-1 tvg-id="Football.ru" tvg-name="Футбол" tvg-logo="https://i.imgur.com/pEuaZVx.png" group-title="СУНДУК ТВ",Футбол [720x576@25]
-http://tmptv.sunduk.tv/CH287/index.m3u8
-#EXTINF:-1 tvg-id="FoodTime.ru" tvg-name="Еда Премиум" tvg-logo="https://i.imgur.com/gxCYAwH.png" group-title="СУНДУК ТВ",Food time HD
-http://tmptv.sunduk.tv/CH235/index.m3u8
-#EXTINF:-1 tvg-id="Avto24.ru" tvg-name="Авто24" tvg-logo="https://i.imgur.com/GXSXmN2.png" group-title="СУНДУК ТВ",Авто 24
-http://tmptv.sunduk.tv/CH405/index.m3u8
-#EXTINF:-1 tvg-id="AutoPlus.ru" tvg-name="Авто Плюс" tvg-logo="https://i.imgur.com/sVc8cFt.png" group-title="СУНДУК ТВ",Авто плюс
-http://tmptv.sunduk.tv/CH49/index.m3u8
-#EXTINF:-1 tvg-id="Bober.ru" tvg-name="Бобёр" tvg-logo="https://i.imgur.com/clWWhB8.png" group-title="СУНДУК ТВ",Бобёр
-http://tmptv.sunduk.tv/CH579/index.m3u8
-#EXTINF:-1 tvg-id="DomashnieZhivotnye.ru" tvg-name="Домашние животные" tvg-logo="https://i.imgur.com/ISJzQGP.png" group-title="СУНДУК ТВ",Домашние животные
-http://tmptv.sunduk.tv/CH207/index.m3u8
-#EXTINF:-1 tvg-id="Eda.ru" tvg-name="Еда" tvg-logo="https://i.imgur.com/htmbgOX.png" group-title="СУНДУК ТВ",Еда
-http://tmptv.sunduk.tv/CH381/index.m3u8
-#EXTINF:-1 tvg-id="ZagorodnayaZhizn.ru" tvg-name="Загородная жизнь" tvg-logo="https://i.imgur.com/RoYd5pz.png" group-title="СУНДУК ТВ",Загородная жизнь
-http://tmptv.sunduk.tv/CH469/index.m3u8
-#EXTINF:-1 tvg-id="Zagorodnyy.ru" tvg-name="Загородный" tvg-logo="https://i.imgur.com/YGqO3Us.png" group-title="СУНДУК ТВ",Загородный
-http://tmptv.sunduk.tv/CH563/index.m3u8
-#EXTINF:-1 tvg-id="KukhnyaTV.ru" tvg-name="Кухня ТВ" tvg-logo="https://i.imgur.com/7jxZnuS.png" group-title="СУНДУК ТВ",Кухня ТВ
-http://tmptv.sunduk.tv/CH65/index.m3u8
-#EXTINF:-1 tvg-id="Oruzhie.ru" tvg-name="Оружие" tvg-logo="https://i.imgur.com/zQ9CFRO.png" group-title="СУНДУК ТВ",Оружие
-http://tmptv.sunduk.tv/CH543/index.m3u8
-#EXTINF:-1 tvg-id="Okhotairybalka.ru" tvg-name="Охота и рыбалка" tvg-logo="https://i.imgur.com/nZwBaeW.png" group-title="СУНДУК ТВ",Охота и Рыбалка
-http://tmptv.sunduk.tv/CH151/index.m3u8
-#EXTINF:-1 tvg-id="Rybolov.ru" tvg-name="Рыболов" tvg-logo="https://i.imgur.com/wJMTcFS.png" group-title="СУНДУК ТВ",Рыболов
-http://tmptv.sunduk.tv/CH389/index.m3u8
-#EXTINF:-1 tvg-id="Telecafe.ru" tvg-name="Телекафе" tvg-logo="https://i.imgur.com/D2p4GaB.png" group-title="СУНДУК ТВ",Телекафе
-http://tmptv.sunduk.tv/CH193/index.m3u8
-#EXTINF:-1 tvg-id="Usadba.ru" tvg-name="Усадьба" tvg-logo="https://i.imgur.com/mf13haG.png" group-title="СУНДУК ТВ",Усадьба
-http://tmptv.sunduk.tv/CH137/index.m3u8
-#EXTINF:-1 tvg-id="BRIDGEDeluxe.ru" tvg-name="Bridge TV Deluxe" tvg-logo="https://i.imgur.com/EazL8w7.png" group-title="СУНДУК ТВ",Bridge TV Deluxe
-http://tmptv.sunduk.tv/CH257/index.m3u8
-#EXTINF:-1 tvg-id="EuropaPlusTV.ru" tvg-name="Europa Plus TV" tvg-logo="https://i.imgur.com/GLc4qrc.png" group-title="СУНДУК ТВ",Europa Plus TV
-http://tmptv.sunduk.tv/CH267/index.m3u8
-#EXTINF:-1 tvg-id="FonMusic.ru" tvg-name="TNT Music" tvg-logo="https://i.imgur.com/tXABQDE.png" group-title="СУНДУК ТВ",Fon Music
-http://tmptv.sunduk.tv/CH121/index.m3u8
-#EXTINF:-1 tvg-id="MCMTop.ru" tvg-name="MCM Top" tvg-logo="https://i.imgur.com/EVtWQLd.png" group-title="СУНДУК ТВ",MCM Top
-http://tmptv.sunduk.tv/CH77/index.m3u8
-#EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="Mezzo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mezzo_Logo.svg/512px-Mezzo_Logo.svg.png" group-title="СУНДУК ТВ",Mezzo
-http://tmptv.sunduk.tv/CH97/index.m3u8
-#EXTINF:-1 tvg-id="MusicBoxGold.ru" tvg-name="MusicBox Gold" tvg-logo="https://i.imgur.com/iWJdeD1.png" group-title="СУНДУК ТВ",MusicBox Gold
-http://tmptv.sunduk.tv/CH81/index.m3u8
-#EXTINF:-1 tvg-id="MuzTV.ru" tvg-name="Муз-ТВ" tvg-logo="https://i.imgur.com/BtqrHmz.png" group-title="СУНДУК ТВ",Муз-ТВ
-http://tmptv.sunduk.tv/CH19/index.m3u8
-#EXTINF:-1 tvg-id="MuzykaPervogo.ru" tvg-name="Музыка Первого" tvg-logo="https://i.imgur.com/sJ2xxLy.png" group-title="СУНДУК ТВ",Музыка Первого
-http://tmptv.sunduk.tv/CH221/index.m3u8
-#EXTINF:-1 tvg-id="ShansonTV.ru" tvg-name="Шансон ТВ" tvg-logo="https://i.imgur.com/NBWyJJQ.png" group-title="СУНДУК ТВ",Шансон ТВ
-http://tmptv.sunduk.tv/CH115/index.m3u8
-#EXTINF:-1 tvg-id="Domashniy.ru" tvg-name="Dомашний" tvg-logo="https://i.imgur.com/XVRwgom.png" group-title="СУНДУК ТВ",Домашний
-http://tmptv.sunduk.tv/CH195/index.m3u8
-#EXTINF:-1 tvg-id="2x2.ru" tvg-name="Дважды два" tvg-logo="https://i.imgur.com/fhQFLEl.png" group-title="СУНДУК ТВ",Канал 2x2
-http://tmptv.sunduk.tv/CH171/index.m3u8
-#EXTINF:-1 tvg-id="STSLove.ru" tvg-name="СТС Love" tvg-logo="https://i.imgur.com/YBVZoDd.png" group-title="СУНДУК ТВ",Unknown Channel
-http://tmptv.sunduk.tv/CH441/index.m3u8
-#EXTINF:-1 tvg-id="Sarafan.ru" tvg-name="Сарафан" tvg-logo="https://i.imgur.com/AgX6qoz.png" group-title="СУНДУК ТВ",Сарафан
-http://tmptv.sunduk.tv/CH199/index.m3u8
-#EXTINF:-1 tvg-id="TV3.ru" tvg-name="ТВ-3" tvg-logo="https://i.imgur.com/JLAvq8O.png" group-title="СУНДУК ТВ",ТВ 3
-http://tmptv.sunduk.tv/CH113/index.m3u8
-#EXTINF:-1 tvg-id="TNT4.ru" tvg-name="ТНТ4" tvg-logo="https://i.imgur.com/4GiD9xN.png" group-title="СУНДУК ТВ",ТНТ4
-http://tmptv.sunduk.tv/CH71/index.m3u8
-#EXTINF:-1 tvg-id="Che.ru" tvg-name="Че!" tvg-logo="https://i.imgur.com/ZOcDGpB.png" group-title="СУНДУК ТВ",Че!
-http://tmptv.sunduk.tv/CH185/index.m3u8
-#EXTINF:-1 tvg-id="Soyuz.ru" tvg-name="Союз" tvg-logo="https://i.imgur.com/w3OewHc.png" group-title="СУНДУК ТВ",Союз
-http://tmptv.sunduk.tv/CH119/index.m3u8
-#EXTINF:-1 tvg-id="Spas.ru" tvg-name="Спас" tvg-logo="https://i.imgur.com/yY39nMg.png" group-title="СУНДУК ТВ",Спас
-http://tmptv.sunduk.tv/CH105/index.m3u8
-#EXTINF:-1 tvg-id="Belarus24.by" tvg-name="Беларусь 24" tvg-logo="https://i.imgur.com/iVIlgrj.png" group-title="СУНДУК ТВ",Беларусь 24
-http://tmptv.sunduk.tv/CH519/index.m3u8
-#EXTINF:-1 tvg-id="Arsenal.ru" tvg-name="Арсенал" tvg-logo="https://i.imgur.com/DBpVeb0.png" group-title="СУНДУК ТВ",Арсенал HD
-http://tmptv.sunduk.tv/CH567/index.m3u8
-#EXTINF:-1 tvg-id="VmesteRF.ru" tvg-name="Вместе-РФ" tvg-logo="https://i.imgur.com/KI1qZNc.png" group-title="СУНДУК ТВ",Вместе РФ
-http://tmptv.sunduk.tv/CH495/index.m3u8
-#EXTINF:-1 tvg-id="VoprosyiOtvety.ru" tvg-name="Вопросы и ответы" tvg-logo="https://i.imgur.com/yjETxk1.png" group-title="СУНДУК ТВ",Вопросы и Ответы
-http://tmptv.sunduk.tv/CH211/index.m3u8
-#EXTINF:-1 tvg-id="Konniymir.ru" tvg-name="Конный мир" tvg-logo="https://i.imgur.com/X6otbK0.png" group-title="СУНДУК ТВ",Конный мир HD
-http://tmptv.sunduk.tv/CH577/index.m3u8
-#EXTINF:-1 tvg-id="NTVMir.ru" tvg-name="НТВ Мир" tvg-logo="https://i.imgur.com/pUcV46F.png" group-title="СУНДУК ТВ",НТВ-Мир
-http://tmptv.sunduk.tv/CH761/index.m3u8
-#EXTINF:-1 tvg-id="OTR.ru" tvg-name="Общественное Телевидение России" tvg-logo="https://i.imgur.com/VaWlnjZ.png" group-title="СУНДУК ТВ",ОТР
-http://tmptv.sunduk.tv/CH317/index.m3u8
-#EXTINF:-1 tvg-id="Pervyyvegetarianskiy.ru" tvg-name="Первый вегетарианский" tvg-logo="https://i.imgur.com/lvKlOkm.png" group-title="СУНДУК ТВ",Первый вегетарианский
-http://tmptv.sunduk.tv/CH509/index.m3u8
-#EXTINF:-1 tvg-id="PervyyKosmicheskiy.ru" tvg-name="Первый Космический" tvg-logo="https://i.imgur.com/N1Ze5IE.png" group-title="СУНДУК ТВ",Первый космический HD
-http://tmptv.sunduk.tv/CH557/index.m3u8
-#EXTINF:-1 tvg-id="Retro.ru" tvg-name="Ретро" tvg-logo="https://i.imgur.com/p21co1w.png" group-title="СУНДУК ТВ",Ретро ТВ
-http://tmptv.sunduk.tv/CH149/index.m3u8
-#EXTINF:-1 tvg-id="Teatr.ru" tvg-name="Театр" tvg-logo="https://i.imgur.com/nc2ijCH.png" group-title="СУНДУК ТВ",Театр
-http://tmptv.sunduk.tv/CH505/index.m3u8
-#EXTINF:-1 tvg-id="Uspeh.ru" tvg-name="Успех" tvg-logo="https://i.imgur.com/o3K1h5Q.png" group-title="СУНДУК ТВ",Успех
-http://tmptv.sunduk.tv/CH337/index.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="MKPNET",Первый канал
+https://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Россия 1
+https://flussonic.mkpnet.ru/tv-d696bdfd6a0e4373/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Россия 24
+https://flussonic.mkpnet.ru/tv-6c5b49dbcf811fc6/video.m3u8
+#EXTINF:-1 group-title="MKPNET",5 Канал
+https://flussonic.mkpnet.ru/tv-a5ff8c7a86c8b951/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Россия К
+https://flussonic.mkpnet.ru/tv-111deaa2142146ee/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Мир24
+https://flussonic.mkpnet.ru/tv-d76fe26181666459/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Мир +7
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
+#EXTINF:-1 group-title="MKPNET",Мир +2
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
+#EXTINF:-1 group-title="MKPNET",РБК
+https://flussonic.mkpnet.ru/tv-d76fe26181666459/video.m3u8
+#EXTINF:-1 group-title="MKPNET",RT Doc HD
+https://flussonic.mkpnet.ru/tv-501eac834b24c3cf/video.m3u8
+#EXTINF:-1 group-title="MKPNET",TPO
+https://flussonic.mkpnet.ru/tv-1a9f2076ff8cd0f3/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Вместе-РФ
+https://flussonic.mkpnet.ru/tv-33b10cf41a3fb597/video.m3u8
+#EXTINF:-1 group-title="MKPNET",ТВЦ
+https://flussonic.mkpnet.ru/tv-b76bb5b80615eed6/video.m3u8
+#EXTINF:-1 group-title="MKPNET",НТВ
+https://flussonic.mkpnet.ru/tv-1bc5d712ea5ace74/video.m3u8
+#EXTINF:-1 group-title="MKPNET",ТВ-3
+https://flussonic.mkpnet.ru/tv-b9ddf7deb3d25757/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Рен-ТВ
+https://flussonic.mkpnet.ru/tv-44dfec2799c5738e/video.m3u8
+#EXTINF:-1 group-title="MKPNET",СТС
+https://flussonic.mkpnet.ru/tv-9cb92ea0862cd7b0/video.m3u8
+#EXTINF:-1 group-title="MKPNET",CTC Love
+https://flussonic.mkpnet.ru/tv-b9f0884f9a81b8c6/video.m3u8
+#EXTINF:-1 group-title="MKPNET",ТНТ 4
+https://flussonic.mkpnet.ru/tv-5f6d3cfda1af8989/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Че!
+https://flussonic.mkpnet.ru/tv-cf5a26a180f402ef/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Ю
+https://flussonic.mkpnet.ru/tv-3b21847ece4b1c19/video.m3u8
+#EXTINF:-1 group-title="MKPNET",ОТР
+https://flussonic.mkpnet.ru/tv-22ed9087cd194d2b/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Домашний
+https://flussonic.mkpnet.ru/tv-b515ccce67923f8a/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Пятнитца!
+https://flussonic.mkpnet.ru/tv-7d5e5db805057e8f/video.m3u8
+#EXTINF:-1 group-title="MKPNET",8 Канал
+https://flussonic.mkpnet.ru/tv-a308d006109b1c1f/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Красная Линия
+https://flussonic.mkpnet.ru/tv-3c6edc849aea7c07/video.m3u8
+#EXTINF:-1 group-title="MKPNET",ЛДПР ТВ
+https://flussonic.mkpnet.ru/tv-0a158c4925e60ceb/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Точка ТВ
+https://flussonic.mkpnet.ru/tv-297099e2d5179304/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Продвижение
+https://flussonic.mkpnet.ru/tv-86cc4bfff941b275/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Суббота
+https://flussonic.mkpnet.ru/tv-2e0a7cc949958b60/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Успех
+https://flussonic.mkpnet.ru/tv-324fe9acc597fbc1/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Amedia HIT
+https://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Amedia 2
+https://flussonic.mkpnet.ru/tv-cad19a32f4a82824/video.m3u8
+#EXTINF:-1 group-title="MKPNET",viju TV1000
+https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8
+#EXTINF:-1 group-title="MKPNET",viju TV1000 Action
+https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8
+#EXTINF:-1 group-title="MKPNET",viju TV1000 Русское
+https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8
+#EXTINF:-1 group-title="MKPNET",viju+ Comedy
+https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
+#EXTINF:-1 group-title="MKPNET",viju+ megahit
+https://flussonic.mkpnet.ru/tv-3d1cedf99303d057/video.m3u8
+#EXTINF:-1 group-title="MKPNET",viju+ premiere
+https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Киносат
+https://flussonic.mkpnet.ru/tv-e055808223a74709/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Киносвидание
+https://flussonic.mkpnet.ru/tv-be2ba983babad866/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Кинохит
+https://flussonic.mkpnet.ru/tv-513b9c22f4277475/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Русский Бестселлер
+https://flussonic.mkpnet.ru/tv-ccf8c891702508a7/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Русский Детектив
+https://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Русский Роман
+https://flussonic.mkpnet.ru/tv-c90a71c34cc779ac/video.m3u8
+#EXTINF:-1 group-title="MKPNET",.Black
+https://flussonic.mkpnet.ru/tv-5aad8f3268a56002/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Sci Fi
+https://flussonic.mkpnet.ru/tv-e80cc885d4ae14d1/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Armenia Premium 6
+http://185.57.68.33:8091/255/index.m3u8
+#EXTINF:-1 group-title="MKPNET",Extreme Sports
+https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
+#EXTINF:-1 group-title="MKPNET",КХЛ
+https://flussonic.mkpnet.ru/tv-e3d23fc7511b5fcd/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Конный мир
+https://flussonic.mkpnet.ru/tv-7a5f996197077375/video.m3u8
+#EXTINF:-1 group-title="MKPNET",МАТЧ! Боец
+https://flussonic.mkpnet.ru/tv-7a5f996197077375/video.m3u8
+#EXTINF:-1 group-title="MKPNET",МАТЧ! Арена
+https://flussonic.mkpnet.ru/tv-9dda1dd9d740a9a4/video.m3u8
+#EXTINF:-1 group-title="MKPNET",МАТЧ! Премьер
+https://flussonic.mkpnet.ru/tv-ee3651e1e7ce5cbf/video.m3u8
+#EXTINF:-1 group-title="MKPNET",МАТЧ!
+https://flussonic.mkpnet.ru/tv-d3098523a4409835/video.m3u8
+#EXTINF:-1 group-title="MKPNET",МАТЧ! Игра
+https://flussonic.mkpnet.ru/tv-1bfac9df3d938c1f/video.m3u8
+#EXTINF:-1 group-title="MKPNET", МАТЧ! Страна
+https://flussonic.mkpnet.ru/tv-6db4f59c21aec361/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Матч! Футбол 1 HD
+http://45.145.32.13:20440/match_football1/index.m3u8?token=test
+#EXTINF:-1 group-title="MKPNET",Матч! Футбол 2 HD
+http://45.145.32.13:20440/match_football2/index.m3u8?token=test
+#EXTINF:-1 group-title="MKPNET",Матч! Футбол 3 HD
+http://45.145.32.13:20440/match_football3/index.m3u8?token=test
+#EXTINF:-1 group-title="MKPNET",Матч! Футбол 3 SD
+http://185.57.68.33:8091/110/index.m3u8
+#EXTINF:-1 group-title="MKPNET",Viasat Explore
+https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Viasat History
+https://flussonic.mkpnet.ru/tv-687ba838ca927b9a/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Viasat Nature
+https://flussonic.mkpnet.ru/tv-7a85ea25208f5bf7/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Бобер
+https://flussonic.mkpnet.ru/tv-319cadb3fff5fb3e/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Большая азия
+https://flussonic.mkpnet.ru/tv-d5d21f78cdf69c47/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Живи Активно
+https://flussonic.mkpnet.ru/tv-fa810958620d77d8/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Здоовое ТВ
+https://flussonic.mkpnet.ru/tv-92fa9d648cab0f3f/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Моя планета
+https://flussonic.mkpnet.ru/tv-6febc5aecf84848d/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Наша тема
+https://flussonic.mkpnet.ru/tv-c922a9201f5073f8/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Точка отрыва
+https://flussonic.mkpnet.ru/tv-025f6f42ae5bcfc6/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Авто24
+https://flussonic.mkpnet.ru/tv-a5fa84789fc4add5/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Диалоги о рыбалке
+https://flussonic.mkpnet.ru/tv-695a246cce5fb820/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Загородная Жизнь
+https://flussonic.mkpnet.ru/tv-a651b413f5cb4c44/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Мужской
+https://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
+#EXTINF:-1 group-title="MKPNET",CTC kids
+https://flussonic.mkpnet.ru/tv-4af112c31b77e2a8/video.m3u8
+#EXTINF:-1 group-title="MKPNET",DuckTV
+https://flussonic.mkpnet.ru/tv-d66fcf59f2f4c966/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Gulli girl
+https://flussonic.mkpnet.ru/tv-3848dd8604a262e0/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Tiji
+https://flussonic.mkpnet.ru/tv-132f51b35b47b897/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Карусель
+https://flussonic.mkpnet.ru/tv-132f51b35b47b897/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Мульт
+https://flussonic.mkpnet.ru/tv-c8b065a591077c26/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Мультиландия
+https://flussonic.mkpnet.ru/tv-89530153f25733fe/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Солнце
+https://flussonic.mkpnet.ru/tv-ac43800065b9b1b7/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Супер Герои
+https://flussonic.mkpnet.ru/tv-66968914d630446e/video.m3u8
+#EXTINF:-1 group-title="MKPNET",2x2
+https://flussonic.mkpnet.ru/tv-17540fb90079a865/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Bridge TV
+https://flussonic.mkpnet.ru/tv-ceaa6aa3cc1ea359/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Europa Plus
+https://flussonic.mkpnet.ru/tv-0f5fe3eb19ad83d9/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Ru TV
+https://flussonic.mkpnet.ru/tv-64b2c4ff13365817/video.m3u8
+#EXTINF:-1 group-title="MKPNET",TNT Music
+https://flussonic.mkpnet.ru/tv-6683d71aa818d0a0/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Жара ТВ
+https://flussonic.mkpnet.ru/tv-3cdc33d3606ba23f/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Муз ТВ
+https://flussonic.mkpnet.ru/tv-4a4cb3e0aac082c9/video.m3u8
+#EXTINF:-1 group-title="MKPNET",Шансон ТВ
+https://flussonic.mkpnet.ru/tv-181e3f7698288892/video.m3u8
+#EXTINF:-1 group-title="IZONE", Первый HD
+http://46.32.176.50/perviy/index.m3u8
+#EXTINF:-1 group-title="IZONE", Россия 1
+http://46.32.176.50/rossiya1/index.m3u8
+#EXTINF:-1 group-title="IZONE", Россия 1 HD
+http://46.32.176.50/RossiyaHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", Россия К
+http://46.32.176.50/rossiakultura/index.m3u8
+#EXTINF:-1 group-title="IZONE", ТНТ 4
+http://46.32.176.50/tnt/index.m3u8
+#EXTINF:-1 group-title="IZONE", НТВ
+http://46.32.176.50/ntvplus/index.m3u8
+#EXTINF:-1 group-title="IZONE", Рен ТВ
+http://46.32.176.50/rentv/index.m3u8
+#EXTINF:-1 group-title="IZONE", Кухня ТВ
+http://46.32.176.50/kuxnyatv/index.m3u8
+#EXTINF:-1 group-title="IZONE", Домашние Животные
+http://46.32.176.50/domashniejivotnie/index.m3u8
+#EXTINF:-1 group-title="IZONE", Поехали!
+http://46.32.176.50/poexali/index.m3u8
+#EXTINF:-1 group-title="IZONE", Телекафе
+http://46.32.176.50/telekafe/index.m3u8
+#EXTINF:-1 group-title="IZONE", Живая Планета
+http://46.32.176.50/jivayaplaneta/index.m3u8
+#EXTINF:-1 group-title="IZONE", Авто24
+http://46.32.176.50/avto24/index.m3u8
+#EXTINF:-1 group-title="IZONE", Авто Плюс
+http://46.32.176.50/avtoplyus/index.m3u8
+#EXTINF:-1 group-title="IZONE", Наука
+http://46.32.176.50/nauka/index.m3u8
+#EXTINF:-1 group-title="IZONE", Моя планета
+http://46.32.176.50/moyaplaneta/index.m3u8
+#EXTINF:-1 group-title="IZONE", Big Planet
+http://46.32.176.50/bigplanet/index.m3u8
+#EXTINF:-1 group-title="IZONE", Animal Planet
+http://46.32.176.50/animalplanet/index.m3u8
+#EXTINF:-1 group-title="IZONE", Animal Planet HD
+http://46.32.176.50/AnimalPlanetHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", Viasat explore
+http://46.32.176.50/viasatexplorer/index.m3u8
+#EXTINF:-1 group-title="IZONE", Viasat history
+http://46.32.176.50/viasathistory/index.m3u8
+#EXTINF:-1 group-title="IZONE", Viasat Nature
+http://46.32.176.50/viasatnature/index.m3u8
+#EXTINF:-1 group-title="IZONE", Viasat Nature HD
+http://46.32.176.50/ViasatNatureHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", Дикий
+http://46.32.176.50/dikiy/index.m3u8
+#EXTINF:-1 group-title="IZONE", History HD
+http://46.32.176.50/HistoryHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", TLC
+http://46.32.176.50/tlc/index.m3u8
+#EXTINF:-1 group-title="IZONE", Охота и Рыбалка
+http://46.32.176.50/oxotoiribalka/index.m3u8
+#EXTINF:-1 group-title="IZONE", Nat Geo Wild HD
+http://46.32.176.50/NatGeoWildHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", Nat Geo Wild
+http://46.32.176.50/natgeowild/index.m3u8
+#EXTINF:-1 group-title="IZONE", Discovery Channel
+http://46.32.176.50/discoverychannel/index.m3u8
+#EXTINF:-1 group-title="IZONE", Discovery Channel HD
+http://46.32.176.50/discoverychannel/index.m3u8
+#EXTINF:-1 group-title="IZONE", National Geographic
+http://46.32.176.50/nationalgeographic/index.m3u8
+#EXTINF:-1 group-title="IZONE", National Geographic HD
+http://46.32.176.50/NationalGeographicHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", Живи
+http://46.32.176.50/jivi/index.m3u8
+#EXTINF:-1 group-title="IZONE", История
+http://46.32.176.50/istoriya/index.m3u8
+#EXTINF:-1 group-title="IZONE", Зоопарк
+http://46.32.176.50/zoopark/index.m3u8
+#EXTINF:-1 group-title="IZONE", Кто есть кто
+http://46.32.176.50/ktoestkto/index.m3u8
+#EXTINF:-1 group-title="IZONE", TV 1000
+http://46.32.176.50/tv1000/index.m3u8
+#EXTINF:-1 group-title="IZONE", TV 1000 Action
+http://46.32.176.50/tv1000action/index.m3u8
+#EXTINF:-1 group-title="IZONE", Иллюзион+
+http://46.32.176.50/illuzion/index.m3u8
+#EXTINF:-1 group-title="IZONE", Русский Иллюзион
+http://46.32.176.50/russkiyiluzion/index.m3u8
+#EXTINF:-1 group-title="IZONE", Еврокино
+http://46.32.176.50/eurokino/index.m3u8
+#EXTINF:-1 group-title="IZONE", Мир сериала
+http://46.32.176.50/mirseriala/index.m3u8
+#EXTINF:-1 group-title="IZONE", Мужское кино HD
+http://46.32.176.50/MujskoeKinoHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", Hollywood HD
+http://46.32.176.50/HollywoodHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", VIP Megahit HD
+http://46.32.176.50/VIPMegahitHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", VIP Premiere HD
+http://46.32.176.50/VIPPremiereHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", VIP Comedy HD
+http://46.32.176.50/VIPComedyHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", VIP Serial HD
+http://46.32.176.50/ViasatSportHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", Дом кино
+http://46.32.176.50/domkino/index.m3u8
+#EXTINF:-1 group-title="IZONE", Дом Кино Премиум HD
+http://46.32.176.50/DomKinoPremiumHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", НСТ
+http://46.32.176.50/nst/index.m3u8
+#EXTINF:-1 group-title="IZONE", .Black
+http://46.32.176.50/sonyturbo/index.m3u8
+#EXTINF:-1 group-title="IZONE", .Sci-Fi
+http://46.32.176.50/sonyscifi/index.m3u8
+#EXTINF:-1 group-title="IZONE", TV XXI
+http://46.32.176.50/tv21/index.m3u8
+#EXTINF:-1 group-title="IZONE", Plan B
+http://46.32.176.50/paramountchannel/index.m3u8
+#EXTINF:-1 group-title="IZONE", Время
+http://46.32.176.50/Vremya/index.m3u8
+#EXTINF:-1 group-title="IZONE", Русский Детектив
+http://46.32.176.50/russkiydetektiv/index.m3u8
+#EXTINF:-1 group-title="IZONE", Русский Роман
+http://46.32.176.50/russkiyroman/index.m3u8
+#EXTINF:-1 group-title="IZONE", Кинохит
+http://46.32.176.50/kinoxit/index.m3u8
+#EXTINF:-1 group-title="IZONE", Киносерия HD
+http://46.32.176.50/kinoseria/index.m3u8
+#EXTINF:-1 group-title="IZONE", Киномикс HD
+http://46.32.176.50/kinomiks/index.m3u8
+#EXTINF:-1 group-title="IZONE", Киносемья HD
+http://46.32.176.50/kinosemya/index.m3u8
+#EXTINF:-1 group-title="IZONE", Кинокомедия
+http://46.32.176.50/kinokomedia/index.m3u8
+#EXTINF:-1 group-title="IZONE", Индийское Кино
+http://46.32.176.50/indiskoekino/index.m3u8
+#EXTINF:-1 group-title="IZONE", Киносвидание
+http://46.32.176.50/kinosvidanie/index.m3u8
+#EXTINF:-1 group-title="IZONE", Родное Кино
+http://46.32.176.50/rodnoekino/index.m3u8
+#EXTINF:-1 group-title="IZONE", Amedia 1
+http://46.32.176.50/amedia1/index.m3u8
+#EXTINF:-1 group-title="IZONE", Amedia 2
+http://46.32.176.50/amedia2/index.m3u8
+#EXTINF:-1 group-title="IZONE", Amedia Hit
+http://46.32.176.50/amediahit/index.m3u8
+#EXTINF:-1 group-title="IZONE", Amedia Premium
+http://46.32.176.50/AmediaPremium/index.m3u8
+#EXTINF:-1 group-title="IZONE", Amedia Premium HD
+http://46.32.176.50/AmediaPremiumHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", Любимое Кино
+http://46.32.176.50/lubimoekino/index.m3u8
+#EXTINF:-1 group-title="IZONE", Сапфир
+http://46.32.176.50/foxlife/index.m3u8
+#EXTINF:-1 group-title="IZONE", Кинеко
+http://46.32.176.50/foxrussia/index.m3u8
+#EXTINF:-1 group-title="IZONE", ТВ3
+http://46.32.176.50/tv3/index.m3u8
+#EXTINF:-1 group-title="IZONE", Че
+http://46.32.176.50/ce/index.m3u8
+#EXTINF:-1 group-title="IZONE", Звезда
+http://46.32.176.50/zvezda/index.m3u8
+#EXTINF:-1 group-title="IZONE", ОТР
+http://46.32.176.50/OTR/index.m3u8
+#EXTINF:-1 group-title="IZONE", Euronews
+http://46.32.176.50/euronews/index.m3u8
+#EXTINF:-1 group-title="IZONE", РТР Планета
+http://46.32.176.50/rtrplaneta/index.m3u8
+#EXTINF:-1 group-title="IZONE", ТВЦ
+http://46.32.176.50/tvc/index.m3u8
+#EXTINF:-1 group-title="IZONE", Домашний
+http://46.32.176.50/domashniy/index.m3u8
+#EXTINF:-1 group-title="IZONE", Мир
+http://46.32.176.50/mir/index.m3u8
+#EXTINF:-1 group-title="IZONE", Мир 24
+http://46.32.176.50/mir24/index.m3u8
+#EXTINF:-1 group-title="IZONE", РБК
+http://46.32.176.50/rbk/index.m3u8
+#EXTINF:-1 group-title="IZONE", CBC
+http://46.32.176.50/cbc/index.m3u8
+#EXTINF:-1 group-title="IZONE", Bridge TV
+http://46.32.176.50/bridgetv/index.m3u8
+#EXTINF:-1 group-title="IZONE", Bridge Classic
+http://46.32.176.50/rusong/index.m3u8
+#EXTINF:-1 group-title="IZONE", Bridge Deluxe
+http://46.32.176.50/BridgeTVDance/index.m3u8
+#EXTINF:-1 group-title="IZONE", Bridge Deluxe HD
+http://46.32.176.50/BridgeTVHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", Муз ТВ
+http://46.32.176.50/muztv/index.m3u8
+#EXTINF:-1 group-title="IZONE", Muz TV AZ
+http://46.32.176.50/muztvaz/index.m3u8
+#EXTINF:-1 group-title="IZONE", RU TV
+http://46.32.176.50/rutv/index.m3u8
+#EXTINF:-1 group-title="IZONE", MCM Top
+http://46.32.176.50/mcmtop/index.m3u8
+#EXTINF:-1 group-title="IZONE", Europa Plus TV
+http://46.32.176.50/europaplus/index.m3u8
+#EXTINF:-1 group-title="IZONE", Ностальгия
+http://46.32.176.50/nostalgiya/index.m3u8
+#EXTINF:-1 group-title="IZONE", Шансон ТВ
+http://46.32.176.50/shanson/index.m3u8
+#EXTINF:-1 group-title="IZONE", Музыка Первого
+http://46.32.176.50/muzika1/index.m3u8
+#EXTINF:-1 group-title="IZONE", Уникум
+http://46.32.176.50/detskiy/index.m3u8
+#EXTINF:-1 group-title="IZONE", Бобер
+http://46.32.176.50/bobertv/index.m3u8
+#EXTINF:-1 group-title="IZONE", Солнце
+http://46.32.176.50/solnce/index.m3u8
+#EXTINF:-1 group-title="IZONE", Суббота
+http://46.32.176.50/subbota/index.m3u8
+#EXTINF:-1 group-title="IZONE", Детский Мир HD
+http://46.32.176.50/detskiymir/index.m3u8
+#EXTINF:-1 group-title="IZONE", Мама
+http://46.32.176.50/mama/index.m3u8
+#EXTINF:-1 group-title="IZONE", Мульт
+http://46.32.176.50/mult/index.m3u8
+#EXTINF:-1 group-title="IZONE", Мульт HD
+http://46.32.176.50/MultHD/index.m3u8
+#EXTINF:-1 group-title="IZONE", 2x2
+http://46.32.176.50/2x2/index.m3u8
+#EXTINF:-1 group-title="IZONE", Ani
+http://46.32.176.50/anitv/index.m3u8
+#EXTINF:-1 group-title="IZONE", Карусель
+http://46.32.176.50/karusel/index.m3u8
+#EXTINF:-1 group-title="IZONE", Nick jr
+http://46.32.176.50/nickelodeonjunior/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,Первый канал
+http://37.46.49.14:18010/play/a021/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,Первый канал Евразия
+http://37.46.49.14:18010/play/a08p/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,РЕН ТВ
+http://37.46.49.14:18010/play/a026/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,Россия 1
+http://37.46.49.14:18010/play/a054/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,ТНТ
+http://37.46.49.14:18010/play/a029/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,НТВ
+http://37.46.49.14:18010/play/a024/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,CGTN
+http://37.46.49.14:18010/play/a03u/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,Curiosity Stream
+http://37.46.49.14:18010/play/a08w/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,Viasat Explore
+http://37.46.49.14:18010/play/a02e/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,Viasat History
+http://37.46.49.14:18010/play/a02f/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,Viasat Nature
+http://37.46.49.14:18010/play/a02g/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,Живая Планета
+http://37.46.49.14:18010/play/a09k/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,Охота и Рыбалка
+http://37.46.49.14:18010/play/a02u/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,Тайны Галактики
+http://37.46.49.14:18010/play/a067/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,Большая Азия
+http://37.46.49.14:18010/play/a02w/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,FilmBox
+http://37.46.49.14:18010/play/a01x/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,Hollywood
+http://37.46.49.14:18010/play/a09n/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,START Air
+http://37.46.49.14:18010/play/a08u/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,START World
+http://37.46.49.14:18010/play/a08z/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,TV1000
+http://37.46.49.14:18010/play/a02d/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,TV1000 action
+http://37.46.49.14:18010/play/a02c/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,TV1000 русское кино
+http://37.46.49.14:18010/play/a02b/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,Кинеко
+http://37.46.49.14:18010/play/a08r/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,Комедия
+http://37.46.49.14:18010/play/a09h/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,Восток ТВ
+http://37.46.49.14:18010/play/a02z/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,Звезда
+http://37.46.49.14:18010/play/a028/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,Fashion TV HD
+http://37.46.49.14:18010/play/a01r/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,31 канал
+http://37.46.49.14:18010/play/a04i/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,Arirang
+http://37.46.49.14:18010/play/a03p/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,НТК
+http://37.46.49.14:18010/play/a04j/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,BALAPAN
+http://37.46.49.14:18010/play/a048/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,CCTV4
+http://37.46.49.14:18010/play/a03t/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,QAZAQSTAN
+http://37.46.49.14:18010/play/a047/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,КТК
+http://37.46.49.14:18010/play/a04h/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,МИР
+http://37.46.49.14:18010/play/a045/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,МИР 24
+http://37.46.49.14:18010/play/a04m/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,РБК
+http://37.46.49.14:18010/play/a01m/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,СТС
+http://37.46.49.14:18010/play/a027/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,Седьмой канал
+http://37.46.49.14:18010/play/a04o/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,Хабар 24
+http://37.46.49.14:18010/play/a04a/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,Хабар HD
+http://37.46.49.14:18010/play/a04d/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,Карусель
+http://37.46.49.14:18010/play/a08k/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,Детский Мир
+http://37.46.49.14:18010/play/a06b/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,Ani
+http://37.46.49.14:18010/play/a09l/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,МузТВ
+http://37.46.49.14:18010/play/a05b/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,Muzzone
+http://37.46.49.14:18010/play/a060/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,Европа Плюс ТВ
+http://37.46.49.14:18010/play/a02y/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,RU.TV
+http://37.46.49.14:18010/play/a030/index.m3u8
+#EXTINF:-1 group-title="ОБИТ" ,BRIDGE TV
+http://37.46.49.14:18010/play/a01o/index.m3u8
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="tro" ,Союзный
+http://93.84.115.174:10181/belros
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="stv-by" , STB HD
+http://93.84.115.174:10181/stvhd
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="ont-by"  tvg-logo="http://1lot.tv/ch/6246.png" ,ОНТ HD
+http://93.84.115.174:10181/ont_hd
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="ntv-belarus"  tvg-logo="http://1lot.tv/ch/7710.png" ,НТВ Беларусь
+http://93.84.115.174:10181/ntv-belarus
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="rtr-belarus"  tvg-logo="http://1lot.tv/ch/10702.png" ,Беларусь РТР
+http://93.84.115.174:10181/rtr-belarus
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="belarus1" ,Беларусь 1 HD
+http://93.84.115.174:10181/belarus1hd
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="belarus2" ,Беларусь 2
+http://93.84.115.174:10181/belarus2sd
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="belarus2" ,Беларусь 2 HD
+http://93.84.115.174:10181/belarus2hd
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="belarus3" ,Беларусь 3
+http://93.84.115.174:10181/belarus3sd
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="belarus3" ,Беларусь 3 HD
+http://93.84.115.174:10181/belarus3hd
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="belarus5" ,Беларусь 5 HD
+http://93.84.115.174:10181/belarus5hd
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="muvitv" ,Муви ТВ
+http://93.84.115.174:10181/muvitv
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="voentv-by" ,Воен ТВ
+http://93.84.115.174:10181/voentvsd
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="hollywood" ,Hollywood
+http://93.84.115.174:10181/hollywoodsd
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="evrokino" ,Еврокино
+http://93.84.115.174:10181/eurokino
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="domkino" ,Дом Кино
+http://93.84.115.174:10181/domkino
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="vip-premiere" ,viju+Premiere HD
+http://93.84.115.174:10181/vippremiere
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="cinema" ,Сinema
+http://93.84.115.174:10181/cinema
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="sony-tv" ,.red HD
+http://93.84.115.174:10181/sonyhd
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="sony-scifi" ,.sci-fi
+http://93.84.115.174:10181/sonyscifi
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="sony-turbo" ,.black
+http://93.84.115.174:10181/sonyturbo
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="amedia2" ,Amedia 2
+http://93.84.115.174:10181/amedia2
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="amedia-premium" ,Amedia Premium HD
+http://93.84.115.174:10181/amediapremiumhd
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="amedia-hit" ,Amedia Hit HD
+http://93.84.115.174:10181/amediahithd
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="tv1000" ,viju TV1000
+http://93.84.115.174:10181/tv1000
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="tv1000-russkoe-kino" ,viju TV1000 Русское
+http://93.84.115.174:10181/tv1000ru
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="tv1000-action" ,viju TV1000 Action
+http://93.84.115.174:10181/tv1000action
+#EXTINF:-1  group-title="93.84.115 👀" ,Dizi HD
+http://93.84.115.174:10181/dizi
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="russky-illuzion" ,Русский Иллюзион
+http://93.84.115.174:10181/rusilluzion
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="mir-seriala" ,Мир Сериала
+http://93.84.115.174:10181/mir_seriala
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="pobeda" ,Победа
+http://93.84.115.174:10181/pobeda
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="kinomiks" ,Киномикс
+http://93.84.115.174:10181/kinomix
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="kinosemiya" ,Киносемья
+http://93.84.115.174:10181/kinosemya
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="kinoseria" ,Киносерия
+http://93.84.115.174:10181/kinoseria
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="kinosvidanie" ,Киносвидание
+http://93.84.115.174:10181/kinosvidanie
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="kinoxit" ,Кинохит
+http://93.84.115.174:10181/kinohit
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="kinokomedia" ,Кинокомедия
+http://93.84.115.174:10181/kinokomedia
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="nashe-novoe-kino" ,Наше Новое Кино
+http://93.84.115.174:10181/nashenovoekino
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="bollywood-hd" ,Bollywood HD
+http://93.84.115.174:10181/foxlifehd
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="tvxxi" ,TV 21M
+http://93.84.115.174:10181/tv21
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="retro-tv" ,Ретро
+http://93.84.115.174:10181/retro
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="feniks-plus-kino" ,Феникс Плюс Кино
+http://93.84.115.174:10181/feniks+kino
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="klassika-kino" ,Классика кино SD
+http://93.84.115.174:10181/klassikakino
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="kvn-tv" ,КВН
+http://93.84.115.174:10181/kvn
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="sarafan" ,Сарафан
+http://93.84.115.174:10181/sarafan
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="europa-plus-tv" ,Европа Плюс
+http://93.84.115.174:10181/europaplus
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="nostalgia" ,Ностальгия
+http://93.84.115.174:10181/nostalgia
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="shanson-tv" ,Шансон ТВ
+http://93.84.115.174:10181/shansontv
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="ru-tv-by" ,RU.TV by
+http://93.84.115.174:10181/rutv
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="la-minor" ,Ля Минор
+http://93.84.115.174:10181/laminor
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="mezzo" ,Mezzo
+http://93.84.115.174:10181/mezzo
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="avto-plus" ,Авто Плюс
+http://93.84.115.174:10181/avtoplus
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="galaxy-tv" ,Galaxy
+http://93.84.115.174:10181/galaxy
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="moya-planeta" ,Моя Планета
+http://93.84.115.174:10181/myplanet
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="ocean-tv" ,Океан
+http://93.84.115.174:10181/oceantv
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="telekafe" ,Телекафе
+http://93.84.115.174:10181/telekafe
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="nauka-20" ,Наука
+http://93.84.115.174:10181/nauka
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="dikiy" ,Дикий
+http://93.84.115.174:10181/diki
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="viasat-nature" ,viju Nature
+http://93.84.115.174:10181/nature
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="viasat-history" ,viju History
+http://93.84.115.174:10181/history
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="usadba" ,Усадьба
+http://93.84.115.174:10181/usadba
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="eda-hd" ,Еда HD
+http://93.84.115.174:10181/edahd
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="bobior" ,Бобёр
+http://93.84.115.174:10181/bober
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="kuxnia-tv" ,Кухня
+http://93.84.115.174:10181/kuhnia
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="drive" ,Драйв
+http://93.84.115.174:10181/drive
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="zoopark" ,Зоопарк
+http://93.84.115.174:10181/zoo
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="oruzhie" ,Оружие
+http://93.84.115.174:10181/orujie
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="arsenaltv" ,Арсенал HD
+http://93.84.115.174:10181/arsenal_hd
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="domashnie-zhivotnye" ,Домашние Животные
+http://93.84.115.174:10181/domjivot
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="animal-planet-eu" ,Animal Planet HD
+http://93.84.115.174:10181/animalplanethd
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="rtg-hd" ,RTG HD
+http://93.84.115.174:10181/rtghd
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="tochka-tv" ,Точка ТВ
+http://93.84.115.174:10181/HDL
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="teatr" ,Театр
+http://93.84.115.174:10181/teatr
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="mult" ,Мульт
+http://93.84.115.174:10181/mult
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="ducktv" ,Duck TV
+http://93.84.115.174:10181/duck_tv
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="karusel" ,Карусель
+http://93.84.115.174:10181/karusel
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="detsky-mir" ,Детский Мир
+http://93.84.115.174:10181/detskimir
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="mir" , МИР
+http://93.84.115.174:10181/mir_sd
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="mir" , МИР HD
+http://93.84.115.174:10181/mir_hd
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="mir-24" ,МИР 24 HD
+http://93.84.115.174:10181/mir24
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="football-ru" ,Футбол
+http://93.84.115.174:10181/futbol
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="match-planeta" ,Матч! Планета
+http://93.84.115.174:10181/matchplaneta
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="box-tv" ,Бокс ТВ
+http://93.84.115.174:10181/box_tv
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="kxl-hd" ,KHL Prime HD
+http://93.84.115.174:10181/khl
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="viasat-sport" ,Viju+ Sport
+http://93.84.115.174:10181/viasatsport
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="luxury-hd" ,Luxury HD
+http://93.84.115.174:10181/foxhd
+#EXTINF:-1  group-title="93.84.115 👀"  tvg-id="domashny" ,Домашний
+http://93.84.115.174:10181/domashniy
+#EXTINF:-1 group-title="Svyaz LLC",ПЕРВЫЙ КАНАЛ
+http://95.215.124.204:5000/udp/225.1.2.1:1234
+#EXTINF:-1 group-title="Svyaz LLC",РОССИЯ 1
+http://95.215.124.204:5000/udp/225.1.2.2:1234
+#EXTINF:-1 group-title="Svyaz LLC",Продвижение
+http://95.215.124.204:5000/udp/225.1.2.3:1234
+#EXTINF:-1 group-title="Svyaz LLC",РОССИЯ-К
+http://95.215.124.204:5000/udp/225.1.2.4:1234
+#EXTINF:-1 group-title="Svyaz LLC",ПЯТЫЙ КАНАЛ
+http://95.215.124.204:5000/udp/225.1.2.5:1234
+#EXTINF:-1 group-title="Svyaz LLC",НТВ
+http://95.215.124.204:5000/udp/225.1.2.6:1234
+#EXTINF:-1 group-title="Svyaz LLC",КАРУСЕЛЬ
+http://95.215.124.204:5000/udp/225.1.2.7:1234
+#EXTINF:-1 group-title="Svyaz LLC",МАТЧ!
+http://95.215.124.204:5000/udp/225.1.2.8:1234
+#EXTINF:-1 group-title="Svyaz LLC",ТВ Центр
+http://95.215.124.204:5000/udp/225.1.2.10:1234
+#EXTINF:-1 group-title="Svyaz LLC",ТНТ
+http://95.215.124.204:5000/udp/225.1.2.11:1234
+#EXTINF:-1 group-title="Svyaz LLC",СТС
+http://95.215.124.204:5000/udp/225.1.2.12:1234
+#EXTINF:-1 group-title="Svyaz LLC",Спас
+http://95.215.124.204:5000/udp/225.1.2.13:1234
+#EXTINF:-1 group-title="Svyaz LLC",Домашний
+http://95.215.124.204:5000/udp/225.1.2.14:1234
+#EXTINF:-1 group-title="Svyaz LLC",ТВ3
+http://95.215.124.204:5000/udp/225.1.2.15:1234
+#EXTINF:-1 group-title="Svyaz LLC",Звезда
+http://95.215.124.204:5000/udp/225.1.2.16:1234
+#EXTINF:-1 group-title="Svyaz LLC",Пятница
+http://95.215.124.204:5000/udp/225.1.2.18:1234
+#EXTINF:-1 group-title="Svyaz LLC",ОТР
+http://95.215.124.204:5000/udp/225.1.2.19:1234
+#EXTINF:-1 group-title="Svyaz LLC",МИР
+http://95.215.124.204:5000/udp/225.1.2.20:1234
+#EXTINF:-1 group-title="Svyaz LLC",RT Region SD
+http://95.215.124.204:5000/udp/225.1.2.21:1234
+#EXTINF:-1 group-title="Svyaz LLC",Первый Крым
+http://95.215.124.204:5000/udp/225.1.2.22:1234
+#EXTINF:-1 group-title="Svyaz LLC",Телеканал 360 HD
+http://95.215.124.204:5000/udp/225.1.2.23:1234
+#EXTINF:-1 group-title="Svyaz LLC",МУЗ ТВ
+http://95.215.124.204:5000/udp/225.1.2.25:1234
+#EXTINF:-1 group-title="Svyaz LLC",РЕН ТВ
+http://95.215.124.204:5000/udp/225.1.2.26:1234
+#EXTINF:-1 group-title="Svyaz LLC",Аист ТВ HD
+http://95.215.124.204:5000/udp/225.1.2.27:1234
+#EXTINF:-1 group-title="Svyaz LLC",Известия
+http://95.215.124.204:5000/udp/225.1.2.28:1234
+#EXTINF:-1 group-title="Svyaz LLC",СТС Love
+http://95.215.124.204:5000/udp/225.1.2.29:1234
+#EXTINF:-1 group-title="Svyaz LLC",2х2
+http://95.215.124.204:5000/udp/225.1.2.30:1234
+#EXTINF:-1 group-title="Svyaz LLC",РОССИЯ 24
+http://95.215.124.204:5000/udp/225.1.2.9:1234
+#EXTINF:-1 group-title="Svyaz LLC",Mир 24 HD
+http://95.215.124.204:5000/udp/225.1.2.31:1234
+#EXTINF:-1 group-title="Svyaz LLC",Че!
+http://95.215.124.204:5000/udp/225.1.2.32:1234
+#EXTINF:-1 group-title="Svyaz LLC",РБК HD
+http://95.215.124.204:5000/udp/225.1.2.33:1234
+#EXTINF:-1 group-title="Svyaz LLC",Солнце
+http://95.215.124.204:5000/udp/225.1.2.34:1234
+#EXTINF:-1 group-title="Svyaz LLC",ТНТ Music
+http://95.215.124.204:5000/udp/225.1.2.37:1234
+#EXTINF:-1 group-title="Svyaz LLC",Суббота!
+http://95.215.124.204:5000/udp/225.1.2.40:1234
+#EXTINF:-1 group-title="Svyaz LLC",Ю ТВ
+http://95.215.124.204:5000/udp/225.1.2.38:1234
+#EXTINF:-1 group-title="Svyaz LLC",Витрина ТВ
+http://95.215.124.204:5000/udp/225.1.2.41:1234
+#EXTINF:-1 group-title="Svyaz LLC",Russian Music Box HD
+http://95.215.124.204:5000/udp/225.1.2.43:1234
+#EXTINF:-1 group-title="Svyaz LLC",Красная Линия
+http://95.215.124.204:5000/udp/225.1.2.44:1234
+#EXTINF:-1 group-title="Svyaz LLC",Анекдот ТВ
+http://95.215.124.204:5000/udp/225.1.2.47:1234
+#EXTINF:-1 group-title="Svyaz LLC",Телеканал Пингвин
+http://95.215.124.204:5000/udp/225.1.2.50:1234
+#EXTINF:-1 group-title="Svyaz LLC",Первый Канал (+4) HD
+http://95.215.124.204:5000/udp/225.1.2.51:1234
+#EXTINF:-1 group-title="Svyaz LLC",Россия 1 HD
+http://95.215.124.204:5000/udp/225.1.2.52:1234
+#EXTINF:-1 group-title="Svyaz LLC",RT DOC
+http://95.215.124.204:5000/udp/225.1.2.54:1234
+#EXTINF:-1 group-title="Svyaz LLC",Здоровое ТВ
+http://95.215.124.204:5000/udp/225.1.2.55:1234
+#EXTINF:-1 group-title="Svyaz LLC",Психология
+http://95.215.124.204:5000/udp/225.1.2.56:1234
+#EXTINF:-1 group-title="Svyaz LLC",Вопросы Ответы
+http://95.215.124.204:5000/udp/225.1.2.57:1234
+#EXTINF:-1 group-title="Svyaz LLC",Театр
+http://95.215.124.204:5000/udp/225.1.2.60:1234
+#EXTINF:-1 group-title="Svyaz LLC",Нано
+http://95.215.124.204:5000/udp/225.1.2.61:1234
+#EXTINF:-1 group-title="Svyaz LLC",Europa Plus TV SD
+http://95.215.124.204:5000/udp/225.1.2.63:1234
+#EXTINF:-1 group-title="Svyaz LLC",Сарафан
+http://95.215.124.204:5000/udp/225.1.2.64:1234
+#EXTINF:-1 group-title="Svyaz LLC",Союз
+http://95.215.124.204:5000/udp/225.1.2.65:1234
+#EXTINF:-1 group-title="Svyaz LLC",Домашние Животные
+http://95.215.124.204:5000/udp/225.1.2.66:1234
+#EXTINF:-1 group-title="Svyaz LLC",Наше Мужское
+http://95.215.124.204:5000/udp/225.1.2.67:1234
+#EXTINF:-1 group-title="Svyaz LLC",Блокбастер
+http://95.215.124.204:5000/udp/225.1.2.68:1234
+#EXTINF:-1 group-title="Svyaz LLC",RTG TV
+http://95.215.124.204:5000/udp/225.1.2.69:1234
+#EXTINF:-1 group-title="Svyaz LLC",КАМЕДИ
+http://95.215.124.204:5000/udp/225.1.2.70:1234
+#EXTINF:-1 group-title="Svyaz LLC",BRIDGE CLASSIC
+http://95.215.124.204:5000/udp/225.1.2.71:1234
+#EXTINF:-1 group-title="Svyaz LLC",Победа
+http://95.215.124.204:5000/udp/225.1.2.72:1234
+#EXTINF:-1 group-title="Svyaz LLC",BRIDGE HITS
+http://95.215.124.204:5000/udp/225.1.2.73:1234
+#EXTINF:-1 group-title="Svyaz LLC",RU.TV HD
+http://95.215.124.204:5000/udp/225.1.2.75:1234
+#EXTINF:-1 group-title="Svyaz LLC",BRIDGE
+http://95.215.124.204:5000/udp/225.1.2.77:1234
+#EXTINF:-1 group-title="Svyaz LLC",BRIDGE Русский Хит
+http://95.215.124.204:5000/udp/225.1.2.79:1234
+#EXTINF:-1 group-title="Svyaz LLC",Шансон ТВ
+http://95.215.124.204:5000/udp/225.1.2.80:1234
+#EXTINF:-1 group-title="Svyaz LLC",Techno 24
+http://95.215.124.204:5000/udp/225.1.2.81:1234
+#EXTINF:-1 group-title="Svyaz LLC",Телеканал Футбол
+http://95.215.124.204:5000/udp/225.1.2.82:1234
+#EXTINF:-1 group-title="Svyaz LLC",Родное Кино
+http://95.215.124.204:5000/udp/225.1.2.83:1234
+#EXTINF:-1 group-title="Svyaz LLC",Кинокомедия
+http://95.215.124.204:5000/udp/225.1.2.84:1234
+#EXTINF:-1 group-title="Svyaz LLC",Киномикс
+http://95.215.124.204:5000/udp/225.1.2.85:1234
+#EXTINF:-1 group-title="Svyaz LLC",Наше Новое Кино
+http://95.215.124.204:5000/udp/225.1.2.86:1234
+#EXTINF:-1 group-title="Svyaz LLC",Дом Кино Премиум HD
+http://95.215.124.204:5000/udp/225.1.2.87:1234
+#EXTINF:-1 group-title="Svyaz LLC",НСТ
+http://95.215.124.204:5000/udp/225.1.2.88:1234
+#EXTINF:-1 group-title="Svyaz LLC",Доктор
+http://95.215.124.204:5000/udp/225.1.2.89:1234
+#EXTINF:-1 group-title="Svyaz LLC",БОКС ТВ
+http://95.215.124.204:5000/udp/225.1.2.90:1234
+#EXTINF:-1 group-title="Svyaz LLC",ТНТ4
+http://95.215.124.204:5000/udp/225.1.2.91:1234
+#EXTINF:-1 group-title="Svyaz LLC",Киноужас
+http://95.215.124.204:5000/udp/225.1.2.92:1234
+#EXTINF:-1 group-title="Svyaz LLC",Оружие
+http://95.215.124.204:5000/udp/225.1.2.94:1234
+#EXTINF:-1 group-title="Svyaz LLC",Феникс плюс Кино
+http://95.215.124.204:5000/udp/225.1.2.95:1234
+#EXTINF:-1 group-title="Svyaz LLC",Мужской
+http://95.215.124.204:5000/udp/225.1.2.96:1234
+#EXTINF:-1 group-title="Svyaz LLC",Загородная жизнь
+http://95.215.124.204:5000/udp/225.1.2.97:1234
+#EXTINF:-1 group-title="Svyaz LLC",Тайны галактики
+http://95.215.124.204:5000/udp/225.1.2.105:1234
+#EXTINF:-1 group-title="Svyaz LLC",Terra
+http://95.215.124.204:5000/udp/225.1.2.107:1234
+#EXTINF:-1 group-title="Svyaz LLC",Комедия
+http://95.215.124.204:5000/udp/225.1.2.110:1234
+#EXTINF:-1 group-title="Svyaz LLC",Ретро
+http://95.215.124.204:5000/udp/225.1.2.111:1234
+#EXTINF:-1 group-title="Svyaz LLC",Усадьба
+http://95.215.124.204:5000/udp/225.1.2.112:1234
+#EXTINF:-1 group-title="Svyaz LLC",Охота и Рыбалка
+http://95.215.124.204:5000/udp/225.1.2.116:1234
+#EXTINF:-1 group-title="Svyaz LLC",Драйв
+http://95.215.124.204:5000/udp/225.1.2.118:1234
+#EXTINF:-1 group-title="Svyaz LLC",Советская Киноклассика
+http://95.215.124.204:5000/udp/225.1.2.119:1234
+#EXTINF:-1 group-title="Svyaz LLC",Russian Extreme
+http://95.215.124.204:5000/udp/225.1.2.120:1234
+#EXTINF:-1 group-title="Svyaz LLC",Бобёр
+http://95.215.124.204:5000/udp/225.1.2.121:1234
+#EXTINF:-1 group-title="Svyaz LLC",Дом Кино
+http://95.215.124.204:5000/udp/225.1.2.122:1234
+#EXTINF:-1 group-title="Svyaz LLC",Музыка Первого
+http://95.215.124.204:5000/udp/225.1.2.123:1234
+#EXTINF:-1 group-title="Svyaz LLC",Время
+http://95.215.124.204:5000/udp/225.1.2.124:1234
+#EXTINF:-1 group-title="Svyaz LLC",Телекафе
+http://95.215.124.204:5000/udp/225.1.2.125:1234
+#EXTINF:-1 group-title="Svyaz LLC",Лапки LIVE
+http://95.215.124.204:5000/udp/225.1.2.132:1234
+#EXTINF:-1 group-title="Svyaz LLC",Уникум
+http://95.215.124.204:5000/udp/225.1.2.134:1234
+#EXTINF:-1 group-title="Svyaz LLC",Русский Иллюзион
+http://95.215.124.204:5000/udp/225.1.2.135:1234
+#EXTINF:-1 group-title="Svyaz LLC",Иллюзион +
+http://95.215.124.204:5000/udp/225.1.2.136:1234
+#EXTINF:-1 group-title="Svyaz LLC",Zoo Парк
+http://95.215.124.204:5000/udp/225.1.2.137:1234
+#EXTINF:-1 group-title="Svyaz LLC",АВТО 24
+http://95.215.124.204:5000/udp/225.1.2.138:1234
+#EXTINF:-1 group-title="Svyaz LLC",Еврокино
+http://95.215.124.204:5000/udp/225.1.2.139:1234
+#EXTINF:-1 group-title="Svyaz LLC",Русский Детектив
+http://95.215.124.204:5000/udp/225.1.2.140:1234
+#EXTINF:-1 group-title="Svyaz LLC",Живая Планета
+http://95.215.124.204:5000/udp/225.1.2.142:1234
+#EXTINF:-1 group-title="Svyaz LLC",Моя Планета
+http://95.215.124.204:5000/udp/225.1.2.143:1234
+#EXTINF:-1 group-title="Svyaz LLC",Наука
+http://95.215.124.204:5000/udp/225.1.2.144:1234
+#EXTINF:-1 group-title="Svyaz LLC",Поехали!
+http://95.215.124.204:5000/udp/225.1.2.145:1234
+#EXTINF:-1 group-title="Svyaz LLC",Русский Бестселлер
+http://95.215.124.204:5000/udp/225.1.2.146:1234
+#EXTINF:-1 group-title="Svyaz LLC",Про Любовь
+http://95.215.124.204:5000/udp/225.1.2.147:1234
+#EXTINF:-1 group-title="Svyaz LLC",Телеканал О!
+http://95.215.124.204:5000/udp/225.1.2.148:1234
+#EXTINF:-1 group-title="Svyaz LLC",Киносерия
+http://95.215.124.204:5000/udp/225.1.2.149:1234
+#EXTINF:-1 group-title="Svyaz LLC",История
+http://95.215.124.204:5000/udp/225.1.2.150:1234
+#EXTINF:-1 group-title="Svyaz LLC",Cinema
+http://95.215.124.204:5000/udp/225.1.2.152:1234
+#EXTINF:-1 group-title="Svyaz LLC",Мульт
+http://95.215.124.204:5000/udp/225.1.2.153:1234
+#EXTINF:-1 group-title="Svyaz LLC",Mama
+http://95.215.124.204:5000/udp/225.1.2.154:1234
+#EXTINF:-1 group-title="Svyaz LLC",Матч! Игра
+http://95.215.124.204:5000/udp/225.1.2.155:1234
+#EXTINF:-1 group-title="Svyaz LLC",Матч! Арена
+http://95.215.124.204:5000/udp/225.1.2.156:1234
+#EXTINF:-1 group-title="Svyaz LLC",Матч! Боец
+http://95.215.124.204:5000/udp/225.1.2.157:1234
+#EXTINF:-1 group-title="Svyaz LLC",Индия
+http://95.215.124.204:5000/udp/225.1.2.159:1234
+#EXTINF:-1 group-title="Svyaz LLC",Мультиландия
+http://95.215.124.204:5000/udp/225.1.2.160:1234
+#EXTINF:-1 group-title="Svyaz LLC",КХЛ
+http://95.215.124.204:5000/udp/225.1.2.162:1234
+#EXTINF:-1 group-title="Svyaz LLC",Любимое Кино
+http://95.215.124.204:5000/udp/225.1.2.163:1234
+#EXTINF:-1 group-title="Svyaz LLC",Дорама
+http://95.215.124.204:5000/udp/225.1.2.169:1234
+#EXTINF:-1 group-title="Svyaz LLC",Русская Ночь
+http://95.215.124.204:5000/udp/225.1.2.175:1234
+#EXTINF:-1 group-title="Svyaz LLC",Наш Кинопоказ
+http://95.215.124.204:5000/udp/225.1.2.193:1234
 
 #EXTINF:-1  tvg-id="hollywood-hd" , Hollywood HD
 #EXTGRP:ССТ 🤘
