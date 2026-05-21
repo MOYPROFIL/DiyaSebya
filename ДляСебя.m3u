@@ -3995,9 +3995,11 @@ https://streams.uzunmuhalefet.com/stream/6bdc8fb5-3e82-4b44-a0b1-6ab9fdc35d3f.m3
 #EXTINF:0 tvg-logo="https://i.postimg.cc/Y2bmqFyq/Logo-Kanal-D-svg.png" group-title="TURK",KANAL D
 https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=7te08khb0uxy&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
 
-#EXTINF:-1 group-title="TURK" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/eurod.png" tvg-url="https://eurod.kanald.com.tr/" tvg-id="EuroD.tr",Euro D
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/eurod.png" tvg-url="https://eurod.kanald.com.tr/" tvg-id="EuroD.tr",Euro D
+#EXTGRP:TURK
 https://streams.uzunmuhalefet.com/stream/864c7cfd-0427-4997-b2dc-31b4aee312c9.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/gjTVwLs5/logo-v5.png" group-title="TURK",EURO D 
+#EXTINF:0 tvg-logo="https://i.postimg.cc/gjTVwLs5/logo-v5.png",EURO D 
+#EXTGRP:TURK
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 
 #EXTINF:-1 group-title="TURK" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/kanal7.png" tvg-url="https://www.kanal7.com/" tvg-id="Kanal7.tr",Kanal 7
@@ -4018,7 +4020,6 @@ https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?app=showtv_web&ce=3
 #EXTINF:-1 group-title="TURK" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/showturk.png" tvg-url="https://www.showturk.com.tr/" tvg-id="ShowTurk.tr",Show Türk
 https://streams.uzunmuhalefet.com/stream/16e43b9b-e175-482c-a105-2253c06515c9.m3u8
 #EXTINF:-1 group-title="TURK" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/showturk.png" tvg-url="https://www.showturk.com.tr/" tvg-id="ShowTurk.tr",Show Türk
-
 http://ha1.159843.xyz:80/live/01nuri01/01082023nri/341474.ts
 
 #EXTINF:-1 group-title="TURK" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/showmax.png" tvg-url="https://www.showmax.com.tr/" tvg-id="ShowMax.tr",Show Max
@@ -4034,7 +4035,6 @@ http://tv.smartglwiz.workers.dev/?ID=StarTV_HD
 #EXTINF:-1 group-title="TURK" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/eurostar.png" tvg-url="https://www.eurostartv.com.tr/" tvg-id="EuroStar.tr",Euro Star
 https://stream-extractor.koprulu2.workers.dev/?url=https://www.parsatv.com/m/name=Euro-Star&ext=m3u8
 #EXTINF:-1 group-title="TURK" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/eurostar.png" tvg-url="https://www.eurostartv.com.tr/" tvg-id="EuroStar.tr",Euro Star
-
 http://ha1.159843.xyz:80/live/01nuri01/01082023nri/341476.ts
 
 #EXTINF:-1 group-title="TURK" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/atv.png" tvg-url="https://www.atv.com.tr/" tvg-id="ATV.tr",ATV
@@ -4045,7 +4045,6 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1 group-title="TURK" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/atvavrupa.png" tvg-url="https://www.atvavrupa.tv/" tvg-id="ATVAvrupa.tr",ATV Avrupa
 https://streams.uzunmuhalefet.com/stream/017621fb-d6f1-4e21-91d8-2510bdcb4ceb.m3u8
 #EXTINF:-1 group-title="TURK" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/atvavrupa.png" tvg-url="https://www.atvavrupa.tv/" tvg-id="ATVAvrupa.tr",ATV Avrupa
-
 http://ha1.159843.xyz:80/live/01nuri01/01082023nri/341475.ts
 
 #EXTINF:-1 group-title="TURK" tvg-logo="https://www.tvlogolar.xyz/europa/turkey/a2.png" tvg-url="https://www.atv.com.tr/a2tv" tvg-id="A2TV.tr",A2
