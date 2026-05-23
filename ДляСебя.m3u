@@ -4495,6 +4495,16 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:67:7B:DD&stream=1472684&
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:67:7B:DD&stream=1472685&extension=ts
 #EXTINF:0 tvg-logo="https://i.postimg.cc/G2b2yHZS/In-Shot-20260420-093829452.png" group-title="ŞABAN",Kemal Sunal 4
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:67:7B:DD&stream=1472686&extension=ts
+#EXTINF:-1 tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/SENER.SEN.png" group-title="ŞABAN",┃TR┃ ŞENER ŞEN 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:67:7B:DD&stream=1472652&extension=ts
+#EXTINF:-1 tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/SENER.SEN.png" group-title="ŞABAN",┃TR┃ ŞENER ŞEN 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:67:7B:DD&stream=1472653&extension=ts
+#EXTINF:-1 tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/SENER.SEN.png" group-title="ŞABAN",┃TR┃ ŞENER ŞEN 3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:67:7B:DD&stream=1472654&extension=ts
+#EXTINF:-1 tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/SENER.SEN.png" group-title="ŞABAN",┃TR┃ ŞENER ŞEN 4
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:67:7B:DD&stream=1472655&extension=ts
+#EXTINF:-1 tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/SENER.SEN.png" group-title="ŞABAN",┃TR┃ ŞENER ŞEN 5
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:67:7B:DD&stream=1472656&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="TR: KEMAL SUNAL 1 ʜᴅ" tvg-logo="http://bluelogo8990.duckdns.org:8080/LOGO.YENI/TR/YESILCAM/KEMAL.SUNAL.01.png" group-title="ŞABAN",TR: KEMAL SUNAL 1 ʜᴅ
 http://maxgoldx.xyz:2095/ademr0000/dmm0301cc00bb55/123072
