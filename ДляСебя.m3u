@@ -139,9 +139,25 @@ https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WKERCaA.png", Boncuk tvᵀᴿ
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://104.238.23.221/BoncukTV/live/index.m3u8
-#EXTINF:-1 tvg-id="3" tvg-logo="" TV13,TEBER CENNET MTV
+#EXTINF:0 tvg-logo="https://i.postimg.cc/tR5kJjpx/In-Shot-20260517-113022210.png" group-title="🇦🇿 Azərbaycan 🇦🇿",TE tv
+https://host.onlineradyotv.net:8081/tetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w500/8jjTdylXzxvbrHh0aw8zwc5DHQM.jpg" TV13,TEBER CENNET MTV
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://playlist.fasttvcdn.com/pl/3k4ks1xutgm1fve4w1r6vq/cennetmahallesi/playlist/0.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/mosaFHc.jpeg" group-title="🇦🇿 Azərbaycan 🇦🇿",KRAL 1
+http://162.212.179.32:80/akamaissh101/ssh101/kral1/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/VITKF1t.jpeg" group-title="🇦🇿 Azərbaycan 🇦🇿",KRAL 2 
+http://162.212.179.32:80/akamaissh101/ssh101/kral2/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/IiITwN5.jpeg" group-title="🇦🇿 Azərbaycan 🇦🇿",KRAL 3
+http://162.212.179.32:80/akamaissh101/ssh101/kral3/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/DrCRnSo.jpeg" group-title="🇦🇿 Azərbaycan 🇦🇿",KRAL 4
+http://162.212.179.32:80/akamaissh101/ssh101/kral4/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/UVnzoF5.jpeg" group-title="🇦🇿 Azərbaycan 🇦🇿",KRAL 5
+http://162.212.179.32:80/akamaissh101/ssh101/kral5/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/UVnzoF5.jpeg" group-title="🇦🇿 Azərbaycan 🇦🇿",Globalbox yerli 
+http://globalboxyerli.supersatadmin.workers.dev:80/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/UVnzoF5.jpeg" group-title="🇦🇿 Azərbaycan 🇦🇿",TEBER KRAL 
+https://catcast.ismailturret.workers.dev/50457.m3u8
 #EXTINF:0 tvg-id="3"tvg-logo="https://i.postimg.cc/HsY46nFr/In-Shot-20251214-120450045.png",ŞABAN TV
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://tv191.radyotelekom.com.tr:3996/stream/play.m3u8
