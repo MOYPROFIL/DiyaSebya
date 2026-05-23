@@ -107,7 +107,7 @@ http://cineplus-yesilcam.supersatadmin.workers.dev/cineplusyesilcam.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VbQqzzE.png",ON Sinema
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://maxtvaksiyonfhd.streams-supersatforum.workers.dev/index.m3u8
-#EXTINF:-1 tvg-logo"https://i.imgur.com/VbQqzzE.png",TELE ON
+#EXTINF:-1 tvg-logo=https://i.postimg.cc/SxbqDbJg/In-Shot-20260501-200431808.png"",TELE ON
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://teleontvstreams.supersatadmin.workers.dev/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhRtHJf.png", YANSIMA SİNEMA HDᵀᴿ
@@ -121,9 +121,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/ymmusictv/playlist.m3u8
 https://azerbaycan.biz-az.workers.dev/ymdanstv.m3u8
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://host.onlineradyotv.net:8081/tetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yWcGNHj.png", Pati tvᵀᴿ
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://104.238.23.182/d/live/out.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yWcGNHj.png", Pati tvᵀᴿ
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 http://5.178.103.239:55/d/live/out.m3u8
