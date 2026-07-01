@@ -56,12 +56,6 @@ http://str.yodacdn.net/qafkaz/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xgsAXgV.png", S TV sinema
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jTmp4fC.png", TV36 AZ
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-http://cdn-stv.yayin.com.tr/stv/stv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bWhRqtz.png", İsmayıllı TV
-#EXTGRP:🇦🇿 Azərbaycan 🇦🇿
-https://a8.radyotelekom.com.tr:3973/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk2RT8Bn/images-removebg-preview.png", Live TV
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://tv.mobyservice.ru/livetv/index.m3u8
@@ -303,6 +297,8 @@ https://v2.catcast.tv/content/50737/seg-25826706-v1-a1/index.m3u8
 http://dygvideo.dygdigital.com/live/hls/kralpop
 #EXTINF:0 tvg-logo="https://i.postimg.cc/NGSjNPby/In-Shot-20260317-133517335.png"group-title="🇦🇿 Azərbaycan 🇦🇿",PLAYBOX MÜZİK tr
 https://v2.catcast.tv/content/50657/seg-26246947-v1-a1/index.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/nMbhTjkB/In-Shot-20260526-222014638.png" group-title="🇦🇿 Azərbaycan 🇦🇿",BEST Hits
+https://catcast.ismailturret.workers.dev/best-hits.m3u8
 #EXTINF:-1,Yansimaslowsarkilar
 #EXTGRP:🇦🇿 Azərbaycan 🇦🇿
 https://v2.catcast.tv/content/50486/seg-25600398-v1-a1/index.m3u8
